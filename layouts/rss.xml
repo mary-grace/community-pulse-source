@@ -1,0 +1,44 @@
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>{{ .Site.Title }}</title>
+    <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://communitypulse.io/</link>
+    <lastBuildDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date }}</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>en-us</language>
+    <copyright>2015-2017 Community Pulse</copyright>
+    <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+    <itunes:summary>Community Builders Mary Thengvall, Jason Hand, and PJ Hagerty interview experts in the field of Community Leadership and Management on a broad range of topics related to building community.</itunes:summary>
+    <description>Community Builders Mary Thengvall, Jason Hand, and PJ Hagerty interview experts in the field of Community Leadership and Management on a broad range of topics related to building community.</description>
+    <itunes:owner>
+    <itunes:name>Jason Hand</itunes:name>
+    <itunes:email>jason@communitypulse.io</itunes:email>
+    </itunes:owner>
+    <itunes:image href="/img/communitypulse-logo.png" />
+    <itunes:category text="Technology">
+    </itunes:category>
+    {{ range (where .Site.Pages "Type" "episode") }}
+    <item>
+      <title>{{ title .Title }} - Community Pulse Episode {{ .Params.episode }}</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>{{ .Description }}</itunes:summary>
+      <description>{{ .Description }}</description>
+      <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/mpeg" />
+      <guid>{{ .Params.podcast }}</guid>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }} </pubDate>
+      <itunes:duration>{{ .Params.podcast_duration}}</itunes:duration>
+      <itunes:explicit>{{ .Params.explicit}}</itunes:explicit>
+    </item>
+    {{ end }}
+  </channel>
+</rss>

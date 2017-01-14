@@ -1,0 +1,48 @@
+BaseURL = "https://mary-grace.github.io/community-pulse/"
+# BaseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Community Pulse"
+theme = "community-pulse"
+canonifyurls = false
+buildFuture = false
+buildDrafts = false
+dataDir = "data"
+disqusShortname = "communitypulse"
+archetypedir = "archetypes"
+paginate = 9
+
+[permalinks]
+	page = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
+	sponsor = "/:filename"
+	redirect = "/:filename"
+
+[params]
+Twitter = "//twitter.com/community-pulse"
+Description = "Community Builders Mary Thengvall, Jason Hand, and PJ Hagerty interview experts in the field of Community Leadership and Management on a broad range of topics related to building community."
+	[params.social]
+		twitter = "community-pulse"
+		youtube = "UC3Mt417XSjzsIgekPWinKiw"
+	[params.authors]
+	  [params.authors.Mary]
+			name	= "Mary Thengvall"
+			thumbnail = "mary.png"
+			bio = "Mary Thengvall is a connector of people at heart, both personally and professionally. She loves digging into the strategy of how to build and foster communities, and has been working with various developer communities for over 7 years. She's now building out the community strategy for SparkPost, an API-driven email delivery service."
+			[params.authors.Mary.social]
+				github = "mary-grace"
+				twitter = "mary_grace"
+		[params.authors.Jason]
+			name = "Jason Hand"
+			thumbnail = ""
+			bio = ""
+				[params.authors.Jason.social]
+					github = "jasonhand"
+					twitter = "jasonhand"
+			[params.authors.PJ]
+				name = "PJ Hagerty"
+				thumbnail = ""
+				bio = ""
+				[params.authors.PJ.social]
+					github = "aspleenic"
+					twitter = "aspleenic"

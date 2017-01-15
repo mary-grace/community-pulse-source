@@ -1,2 +1,2 @@
 [context.deploy-preview]
-  command = "hugo --theme=ado --buildDrafts=false --baseURL=/"
+  command = "hugo --theme=community-pulse --buildDrafts=false --baseURL=/"

@@ -12,7 +12,7 @@ podcast = ""
 podcast_bytes = ""
 podcast_duration = ""
 tags = []
-title = ""
+title = "New Year, New Plan"
 youtube = "AcCwAWYqoUY"
 explicit = ""
 +++

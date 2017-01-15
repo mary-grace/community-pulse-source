@@ -37,16 +37,15 @@
 						</li>
 					</ul>
 				</div>
-			</div>
+			</div> <!--row-->
 
 </div> <!--jumbo-->
 </div> <!--container-->
 <!-- end new jumbo -->
-<!--    <section class="container-fluid episode-list">
+	<section class="container-fluid episode-list">
       <div class="col-md-12 episode-list-header">
-        <h3>All Episodes</h3>
+				<h3>All Episodes</h3>
       </div>
-
     <div class="row">
 
         {{ $paginator := .Paginate (where .Data.Pages "Type" "episode") }}
@@ -54,25 +53,25 @@
           <div class="col-md-4">
 						<div class="episode-image-homepage">
 							<a href="{{ .Permalink }}">
-								<div>
-									{{ title .Title }} (Episode {{ .Params.episode }})
-								</div>
+								<h4>
+									<br />
+									{{ title .Title }} (Ep {{ .Params.episode }})
+								</h4>
 							</a>
             	<div>
 								{{ .Description | markdownify }}
 							</div>
-
             </div>
           </div>
         {{ end }}
       </div>
-    </section> -->
+    </section>
     <!--pagination-->
-<!--    <div class="row">
+		<div class="row">
   		<div class="col-md-offset-4 col-md-6">
         {{ template "_internal/pagination.html" . }}
   		</div>
-  	</div>  -->
+  	</div>
     <!--pagination-->
 
 

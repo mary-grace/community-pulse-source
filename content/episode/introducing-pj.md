@@ -1,5 +1,5 @@
 +++
-Description = "The one where we introduce [PJ Hagerty](https://twitter.com/aspleenic), the new guy."
+Description = "The one where we introduce [PJ Hagerty](https://twitter.com/aspleenic), the new guy. Jason and Mary talk about why they've decided to add a third person, as well as their plan for the next few episodes and their hopes for the podcast going forward."
 aliases = ["/08"]
 author = "Mary"
 categories = []

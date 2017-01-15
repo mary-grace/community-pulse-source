@@ -1,4 +1,4 @@
-BaseURL = "https://mary-grace.github.io/community-pulse-source/"
+BaseURL = "http://communitypulse.io"
 # BaseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Community Pulse"

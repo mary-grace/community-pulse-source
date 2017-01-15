@@ -26,24 +26,24 @@ Description = "Community Builders Mary Thengvall, Jason Hand, and PJ Hagerty int
 		youtube = "channel/UC3Mt417XSjzsIgekPWinKiw"
 		github = "mary-grace/community-pulse-source"
 	[params.authors]
+		[params.authors.Jason]
+			name = "Jason Hand"
+			thumbnail = "jason.jpg"
+			bio = "DevOps Evangelist and Community Builder at VictorOps, organizer of DevOpsDays - Rockies, author of ChatOps for Dummies and O’Reilly’s ChatOps: Managing Operations from Group Chat. Jason has spent the last 3 years evangelizing for DevOps principles and concepts related to Post-mortems, ChatOps, Monitoring & Alerting, and the value of context within incident management. A frequent speaker at industry conferences and events around the country, Jason enjoys bring people together on a variety of technical and non-technical subjects."
+			[params.authors.Jason.social]
+				github = "jasonhand"
+				twitter = "jasonhand"
 	  [params.authors.Mary]
 			name	= "Mary Thengvall"
-			thumbnail = "mary.png"
+			thumbnail = "mary.jpg"
 			bio = "Mary Thengvall is a connector of people at heart, both personally and professionally. She loves digging into the strategy of how to build and foster communities, and has been working with various developer communities for over 7 years. She's now building out the community strategy for SparkPost, an API-driven email delivery service."
 			[params.authors.Mary.social]
 				github = "mary-grace"
 				twitter = "mary_grace"
-		[params.authors.Jason]
-			name = "Jason Hand"
-			thumbnail = ""
-			bio = ""
-				[params.authors.Jason.social]
-					github = "jasonhand"
-					twitter = "jasonhand"
-			[params.authors.PJ]
-				name = "PJ Hagerty"
-				thumbnail = ""
-				bio = ""
-				[params.authors.PJ.social]
-					github = "aspleenic"
-					twitter = "aspleenic"
+		[params.authors.PJ]
+			name = "PJ Hagerty"
+			thumbnail = "pj.jpg"
+			bio = "Developer, writer, speaker, musician, and Technical Advocate at IBM Bluemix, PJ is known to travel the world speaking about programming and the way people think and interact. Traveling to conferences and meet ups around the world, PJ likes to spread the word on the importance of community and coding, stressing the importance of outreach and focusing on the human side of being a coder. He is also known for wearing hats."
+			[params.authors.PJ.social]
+				github = "aspleenic"
+				twitter = "aspleenic"

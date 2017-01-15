@@ -1,5 +1,5 @@
 +++
-Description = "Jason and Mary talk to Jono Bacon about the difference between 'read' and 'write' communities, how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more."
+Description = "Jason and Mary talk to [Jono Bacon](https://twitter.com/jonobacon) about the difference between 'read' and 'write' communities. We also cover how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more."
 aliases = ["/02"]
 author = "Mary"
 categories = []
@@ -14,7 +14,7 @@ podcast_bytes = ""
 podcast_duration = ""
 tags = []
 title = "Jono Bacon: Father of Community"
-youtube = "rvw_ODkFAFo"
+youtube = "dJPpp9uMExw"
 
 +++
 

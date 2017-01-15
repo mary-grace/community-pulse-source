@@ -1,5 +1,5 @@
 +++
-Description = "Your hosts Jason Hand, Mary Thengvall, and PJ Hagerty in conversation with guests Jessica Fish and John Willis on the topic of burnout in the DevRel community."
+Description = "Your hosts Jason Hand, Mary Thengvall, and PJ Hagerty in conversation with guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) on the topic of burnout in the DevRel community."
 podcast = "http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_10_-_Burnout_Part_One.mp3"
 date = "2016-11-21"
 podcast_duration = "25:43"

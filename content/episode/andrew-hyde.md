@@ -14,7 +14,7 @@ podcast_bytes = ""
 podcast_duration = ""
 tags = []
 title = "Andrew Hyde: Pursue Your Passions"
-youtube = "OZxrEMA8a1Q"
+youtube = "yjdrwc2NMXc"
 
 +++
 

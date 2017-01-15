@@ -1,0 +1,79 @@
+{{ partial "header.html" . }}
+
+<!--replaces jumbotron -->
+<div class = "container-fluid">
+<div class="jumbotron">
+<div class="row">
+				<div class="col-md-6">
+					<p><b>Community Pulse</b> is the spot for community managers and developer evangelists who are looking for information on community building. Community Builders Jason Hand, Mary Thengvall, and PJ Hagerty interview experts in the field of Community Leadership and Management on a broad range of topics related to building community.</p>
+				</div>
+				<div class="col-md-2">
+					<a href = "/host/jason"><img alt="Jason Hand" src="/img/jason.png" class="img-circle image-centered image-responsive" width="150px"/></a>
+          <p align = "center">Jason</p>
+				</div>
+				<div class="col-md-2">
+					<a href = "/host/mary"><img alt="Mary Thengvall" src="/img/mary.png" class="img-circle image-centered image-responsive" width="150px" /></a></a>
+          <p align = "center">Mary</p>
+				</div>
+				<div class="col-md-2">
+					<a href = "/host/pj"><img alt="PJ Hagerty" src="/img/pj.png" class="img-circle image-centered image-responsive" width="150px"/></a>
+          <p align = "center">PJ</p>
+				</div>
+			</div>
+			<div class = "row">
+				<div class = "col-md-12">
+					<ul class="list-inline">
+						<li>
+							<a class="btn btn-default" href="https://itunes.apple.com/us/podcast/community-pulse/id1045213365" class="subscribe-button"><i class="fa fa-apple"></i> Subscribe on iTunes</a>
+						</li>
+						<li>
+							<a class="btn btn-default" href="http://www.stitcher.com/s?fid=74680&refid=stpr" class="subscribe-button"><i class="fa fa-stitcher"></i>Subscribe on Stitcher</a>
+						</li>
+						<!--<li>
+							<a class="btn btn-default" href="" class="subscribe-button"><i class="fa fa-android"></i>Subscribe on Android</a>
+						</li>-->
+						<li>
+							<a class="btn btn-default" href="http://communitypulse.libsyn.com/rss" class="subscribe-button"><i class="fa fa-rss"></i> Subscribe via RSS</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+
+</div> <!--jumbo-->
+</div> <!--container-->
+<!-- end new jumbo -->
+<!--    <section class="container-fluid episode-list">
+      <div class="col-md-12 episode-list-header">
+        <h3>All Episodes</h3>
+      </div>
+
+    <div class="row">
+
+        {{ $paginator := .Paginate (where .Data.Pages "Type" "episode") }}
+        {{ range $paginator.Pages }}
+          <div class="col-md-4">
+						<div class="episode-image-homepage">
+							<a href="{{ .Permalink }}">
+								<div>
+									{{ title .Title }} (Episode {{ .Params.episode }})
+								</div>
+							</a>
+            	<div>
+								{{ .Description | markdownify }}
+							</div>
+
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </section> -->
+    <!--pagination-->
+<!--    <div class="row">
+  		<div class="col-md-offset-4 col-md-6">
+        {{ template "_internal/pagination.html" . }}
+  		</div>
+  	</div>  -->
+    <!--pagination-->
+
+
+{{ partial "footer.html" . }}

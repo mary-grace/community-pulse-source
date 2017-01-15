@@ -7,7 +7,7 @@ canonifyurls = false
 buildFuture = false
 buildDrafts = false
 dataDir = "data"
-disqusShortname = "communitypulse"
+# disqusShortname = "communitypulse"
 archetypedir = "archetypes"
 paginate = 9
 
@@ -23,7 +23,8 @@ Twitter = "//twitter.com/community-pulse"
 Description = "Community Builders Mary Thengvall, Jason Hand, and PJ Hagerty interview experts in the field of Community Leadership and Management on a broad range of topics related to building community."
 	[params.social]
 		twitter = "community-pulse"
-		youtube = "UC3Mt417XSjzsIgekPWinKiw"
+		youtube = "channel/UC3Mt417XSjzsIgekPWinKiw"
+		github = "mary-grace/community-pulse-source"
 	[params.authors]
 	  [params.authors.Mary]
 			name	= "Mary Thengvall"

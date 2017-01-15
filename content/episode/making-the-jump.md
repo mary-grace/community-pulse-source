@@ -3,7 +3,7 @@ Description = "In this episode of Community Pulse we were joined by [Nathen Harv
 aliases = ["/07"]
 author = "Mary"
 categories = []
-date = "2016-03-10"
+date = "2016-05-20"
 episode = "07"
 friendly = "making-the-jump"
 guests = ["nharvey", "pleggetter"]
@@ -14,7 +14,7 @@ podcast_bytes = ""
 podcast_duration = ""
 tags = []
 title = "Making the Jump from One to Many"
-youtube = "KgGxqszhf"
+youtube = "KgGxqszhf-o"
 
 +++
 

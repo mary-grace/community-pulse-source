@@ -22,7 +22,6 @@ Jason and Mary introduce themselves and announce that they’re starting a podca
 
 In short, this podcast is for those of us who keep a pulse on our communities. Our hope is that this podcast will be an opportunity for us to learn and share aspects of community building with developer evangelists, technical community managers, community builders, and advocates alike.
 
-<h2>Check it Out:</h2>
-*Links*<ul>
+<h2>Check it Out:</h2><ul>
 <li>[Community Manager/Developer Evangelist Slack Group](http://evangelistcollective.github.io)</li>
 <li>[Community Leadership Forum](http://communityleadershipforum.com/)</li></ul>

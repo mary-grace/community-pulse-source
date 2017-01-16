@@ -23,7 +23,7 @@ On this episode of Community Pulse, Jason and Mary talk to [Jono Bacon](http://t
 Throughout this 40 minute podcast, we’ll touch on the difference between “read” and “write” communities, how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more.
 
 <h2>Check it Out:</h2>
-_Links_<ul>
+<h3>Links</h3><ul>
 <li>[Community Leadership Forum](http://communityleadershipforum.com/)</li>
 <li>[The Art of Community](https://www.amazon.com/Art-Community-Building-New-Participation/dp/1449312063) (Amazon) or [free PDF](http://www.artofcommunityonline.org/get/)</li>
 <li>[Nudge](http://smile.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X/ref=sr_1_1?ie=UTF8&qid=1443480452&sr=8-1&keywords=Nudge) (Amazon)</li>
@@ -31,5 +31,5 @@ _Links_<ul>
 <li>[Dr. David Rock’s SCARF](http://www.your-brain-at-work.com/files/NLJ_SCARFUS.pdf): a brain-based model for collaborating with and influencing others (PDF)</li>
 <li>[The Starfish and the Spider](http://smile.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841836/ref=sr_1_1?ie=UTF8&qid=1443533448&sr=8-1&keywords=The+Starfish+and+the+Spider) (Amazon)</li></ul>
 
-_Corrections_
+<h3>Corrections</h3>
 We stated in the podcast that the first edition of _The Art of Community_ came out in 2012. The second edition was actually released in 2012 and the first in 2009.

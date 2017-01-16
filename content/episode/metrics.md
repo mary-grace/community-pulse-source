@@ -22,8 +22,7 @@ On this episode of the Community Pulse, Jason and Mary sit down with [https://tw
 
 
 <h2>Check it Out:</h2>
-*Links*<ul>
-<li>[http://biterg.io](Cauldron beta) -- community metrics for github repositories</li>
+<ul><li>[http://biterg.io](Cauldron beta) -- community metrics for github repositories</li>
 <li>[https://jgbarah.gitbooks.io/evaluating-foss-projects/](Evaluating Free / Open Source Software Projects) -- work-in-progress book</li>
 <li>[http://flosscommunitymetrics.org/](FCM2) -- FLOSS Community Metrics Meeting</li>
 <li>[http://sprint.feverbee.com/](FeverBee Sprint) -- conference about the psychology of community</li>

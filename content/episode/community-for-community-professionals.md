@@ -23,8 +23,7 @@ youtube = "J0BmaVd94Zg"
 The [CMX Summits](http://cmxhub.com/summit) bring in voices from psychology and behavioral analysis, as well as non-profits, plus stories from the trenches of technology. The theme for CMX West 2015 was “Community is the Future of Business.” We talk through this idea, and what it means for the future of community professionals, as well as why the essence of community is at a tipping point right now. In the process, we highlight how to help companies understand what it’s like to build community on a professional level, how to set the standards for this relatively new role, and more.
 
 <h2>Check it Out:</h2>
-*Links*<ul>
-<li>[CMX Hub Facebook Group](https://www.facebook.com/groups/cmxhub/)</li>
+<ul><li>[CMX Hub Facebook Group](https://www.facebook.com/groups/cmxhub/)</li>
 <li>[The Community Manager](http://thecommunitymanager.com/) - community management-related tips, news and case studies</li>
 <li>[CMX Summit](http://cmxhub.com/summit/) - “TED for Community Professionals”</li>
 <li>[Fundamentals of Community Strategy Training Course](http://cmxhub.com/workshops/community-management-fundamentals-training/)</li>

@@ -37,12 +37,13 @@ How do we protect ourselves?
 * The question companies need to start asking isn't "Can we continue to afford to pay these people?" but "Can we afford to lose the goodwill and amount of work that these folks are putting into our community?"
 
 <h2>Check It Out:</h2>
-<li>[Evangelist Collective Slack Channel](http://evangelistcollective.github.io)</li>
+<h3>Links</h3>
+<ul><li>[Evangelist Collective Slack Channel](http://evangelistcollective.github.io)</li>
 <li>[Prompt](http://mhprompt.org/) - Looking for someone to speak about mental health in tech? We'll provide financial assistance to help you find a speaker.</li>
 <li>[Vicky Brassuer's](https://twitter.com/vmbrasseur) 4-part series on [https://gist.github.com/vmbrasseur/6f4ce13f6b82ea87a139](opensource.com) about ROI and metrics around community management</li>
 <li>[Debugging Teams: Better Productivity Through Collaboration](http://amzn.to/1SYj5h0)</li>
 <li>[DevRelsFTW](https://twitter.com/search?f=tweets&vertical=default&q=%23devrelsftw&src=typd)</li></ul>
 
-*to decompress:*<ul>
-<li>[Fuller House](https://www.netflix.com/title/80051137) (skip the first episode)</li>
+<h3>to decompress:</h3>
+<ul><li>[Fuller House](https://www.netflix.com/title/80051137) (skip the first episode)</li>
 <li>[Peewee's Big Holiday](https://www.netflix.com/title/80031800)</li></ul>

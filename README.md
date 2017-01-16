@@ -12,12 +12,12 @@ Here are the steps to follow to get going as a Community Pulse content contribut
 
 ## Episodes
 
-[](Every episode needs a few images. You need the following)
+[](Every episode needs a few images. You need the following:)
 
 [](1. **Episode thumbnail** - This must be square, PNG, and 500px by 500px. Enlarge it slightly if you have to. As of right now, these must be named EXACTLY the same as the episode file name (i.e., `devops-at-etsy.png`). They will live in the `content/episode/img` folder.)
 [](2. **Episode banner** - These need to be PNG, 800px by 420 px. They need to be named using the episode name as a template (i.e., `devops-at-etsy-banner.png`) and stored in the `content/episode/img` folder.)
 [](3. **Facebook sharing image** - These need to be PNG, 1200px by 630 px, and named after the episode (i.e., `devops-at-etsy.png`). They are stored in the `static/img/social/fb` folder.)
-[](4. **Guest image(s)** - These need to be PNG, 500px x 500px, and named after the guest data file name (i.e., `mstratton.png`). They are stored in the `static/img/guests` folder)
+[](4. **Guest image(s)** - These need to be JPG, 500px x 500px, and named after the guest data file name (i.e., `mthengvall.jpg`). They are stored in the `static/img/guests` folder.)
 
 When you create a new episode, Hugo will populate the front-matter of the .md file with a bunch of stuff for you. These are the required items to be sure to populate:
 * **Description** - A string in double quotes. Please make sure that any double quotes are escaped, as such: `\"Community\"`
@@ -32,6 +32,12 @@ When you create a new episode, Hugo will populate the front-matter of the .md fi
 * **author** - A string that contains either "Jason", "Mary", or "PJ"
 * **aliases** - Array of strings for redirects. The only one you should ever need is for the episode number, i.e., `aliases = ["/27"]`
 * **youtube** - the URL of the YouTube video, if there is one. If not, delete this line from the frontmatter of the episode.
+
+## Guests
+
+**Guest image(s)** - These need to be JPG, 500px x 500px, and named after the guest data file name (i.e., `mthengvall.jpg`). They are stored in the `static/img/guests` folder.
+
+**Guest links** - You'll notice that the layout for each single episode (themes > community-pulse > layouts > episode > single.html) has a string of {{ if }} clauses toward the bottom of the page. This allows for guests to have various links to social media & websites if they wish. These can include Facebook, Twitter, Github, LinkedIn, and their personal website. These links, along with their bio, are pulled from their guest file (data > guests > `pjhagerty.yml`).
 
 ## Show Notes
 

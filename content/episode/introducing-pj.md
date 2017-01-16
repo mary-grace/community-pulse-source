@@ -13,7 +13,7 @@ podcast = ""
 podcast_bytes = ""
 podcast_duration = ""
 tags = []
-title = "Intrducing PJ"
+title = "Introducing PJ"
 youtube = "GXwnzRupnqs"
 
 +++

@@ -1,5 +1,5 @@
 +++
-Description = "Jason, Mary, and PJ sit down to talk to [Kim Bannerman](http://twitter.com/kmbannerman) and [Eamon Leonard](http://twitter.com/eamonleonard) about how to start a community. We meander down that topic while exploring the rabbit holes of burnout, dealing with difficult community members, who actually makes up a community, what separates a leader from a participant, and more."
+Description = "Jason, Mary, and PJ talk to [Kim Bannerman](http://twitter.com/kmbannerman) & [Eamon Leonard](http://twitter.com/eamonleonard) about how to start a community. We also explore who makes up a community, what separates leaders from participants, and more."
 guests = ["kbannerman", "eleonard"]
 podcast = "http://traffic.libsyn.com/communitypulse/ep14-beginning.mp3"
 podcast_duration = "51:34"

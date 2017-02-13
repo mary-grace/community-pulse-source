@@ -1,5 +1,5 @@
 +++
-Description = "Mary and PJ get together with [Jason Yee](http://twitter.com/gitbisect), [Davey Shafik](http://twitter.com/dshafik), and [David Blank-Edelman](http://twitter.com/otterbook) to talk travel tips, packing ideas, and what you can't live without on a plane."
+Description = "Mary and PJ get together with [Jason Yee](http://twitter.com/gitbisect) (at an airport), [Davey Shafik](http://twitter.com/dshafik) (just home from a trip), and [David Blank-Edelman](http://twitter.com/otterbook) (in a hotel room) to talk travel tips, packing ideas, and what you can't live without on a plane."
 aliases = ["/12"]
 author = "Mary"
 categories = ["travel"]

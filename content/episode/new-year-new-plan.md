@@ -1,5 +1,5 @@
 +++
-Description = "Mary, Jason, and PJ sit down with [Ken Mugrage](http://twitter.com/kmugrage) and [Matthew Broberg](http://twitter.com/mjbrender) to talk about how to plan for a new year."
+Description = "Mary, Jason, and PJ talk to [Ken Mugrage](http://twitter.com/kmugrage) and [Matthew Broberg](http://twitter.com/mjbrender) about how to plan for a new year. We work through what a retrospective is (and why it might be useful), as well as how to prioritize & measure your work."
 aliases = ["/13"]
 author = "Mary"
 categories = ["retrospectives"]

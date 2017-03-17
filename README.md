@@ -16,7 +16,6 @@ When you create a new episode, Hugo will populate the front-matter of the .md fi
 * **Description** - A string in double quotes. Please make sure that any double quotes are escaped, as such: `\"Community\"`
 * **podcast** - this is the URL to the podcast MP3. You may not have this at the time you are creating an epiosde page, so that's okay.
 * **guests** - a comma separated list of the guests, in the format first initial, last name (i.e., `"cjones", "jyee"`). The names should line up to .yml files in `data/guests`
-[](* **sponsors** - comma separated list of the sponsors for the episode. Same rules apply as guests, but the data files are in `data/sponsors`)
 * **friendly** - this is the shortname of the episode. It should be the name of the file minus the .md extension. I tried to automate this without success so far. Sorry :(
 * **explicit** - this is a "yes" or "no" (in quotes) value depending on if the episode has explicit language. If you are not sure, please set it to "yes".
 * **episode** - a string for the episode number, i.e., `"42"`

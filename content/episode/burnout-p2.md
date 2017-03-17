@@ -1,5 +1,5 @@
 +++
-Description = "The return of guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) to discuss recognizing burnout and dealing with it. Hosted by Mary Thengvall, Jason Hand, and PJ Hagerty."
+Description = "[Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) return more discussions around burnout. This time, Jason, Mary, and PJ talk to them about recognizing burnout in both yourself and others, and how to deal with it."
 aliases = ["/11"]
 author = "Mary"
 categories = ["burnout"]

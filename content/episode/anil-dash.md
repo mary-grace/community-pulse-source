@@ -1,5 +1,5 @@
 +++
-Description = "In this episode, Mary, Jason, and PJ sit down with the illustrious Anil Dash of Fog Creek Software to discuss interactions with people, why DevRel is so important yet misunderstood, and Anil's cool new project, Glitch.com."
+Description = "In this episode, Mary, Jason, and PJ sit down with the illustrious [Anil Dash](https://twitter.com/anildash) of Fog Creek Software to discuss interactions with people, why DevRel is so important yet misunderstood, and Anil's cool new project, [Glitch](https://glitch.com/)."
 guests = ["adash"]
 podcast = "http://traffic.libsyn.com/communitypulse/ep17-importance-of-interaction.mp3"
 podcast_duration = "01:10:50"

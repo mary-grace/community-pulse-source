@@ -9,7 +9,7 @@ date = "2017-06-12"
 author = "mthengvall"
 categories = ["thought leaders"]
 friendly = "anil-dash"
-title = "The Importance of Interaction (Ep 17)"
+title = "The Importance of Interaction"
 youtube = "mvdBYNd2J9g"
 explicit = "no"
 +++

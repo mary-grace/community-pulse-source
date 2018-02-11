@@ -4,6 +4,7 @@ podcast = "http://traffic.libsyn.com/communitypulse/ep21-breaking-into-devrel.mp
 podcast_duration = "27:48"
 aliases = ["/21"]
 episode = "21"
+guests = ["ccondon", "efreeman"]
 date = "2018-02-09"
 author = "Mary"
 categories = ["DevRel"]

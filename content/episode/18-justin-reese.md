@@ -10,6 +10,6 @@ author = "Mary"
 categories = [""]
 tags = [""]
 friendly = "018-justin-reese"
-title = "Justin Reese at Uptime Conf (Episode 18)"
+title = "Justin Reese at Uptime Conf"
 youtube = "YjiTI2l0fGQ"
 +++

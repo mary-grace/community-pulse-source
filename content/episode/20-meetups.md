@@ -12,3 +12,13 @@ friendly = "20-meetups"
 title = "Meetups"
 youtube = "epq79ZsxzlY"
 +++
+
+<h2>Links for this episode:</h2>
+The Community Pulse Podcast - https://apple.co/2Dqay7r
+Making Work Visible - http://amzn.to/2wukkPn
+CloudCraft - https://cloudcraft.co
+Halt and Catch Fire - http://www.amc.com/shows/halt-and-cat...
+Urban Ears - https://www.urbanears.com
+Code and Talk - https://codeandtalk.com
+Reply All Podcast - https://gimletmedia.com/reply-all
+Crimetown Podcast - https://gimletmedia.com/crimetown

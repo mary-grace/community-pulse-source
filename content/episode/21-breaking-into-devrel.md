@@ -1,5 +1,5 @@
 +++
-Description = "Defining Developer Relations is a difficult thing to do. So how do you know what to expect when you transition into Community & DevRel? This month, PJ and Mary chat with [Emily Freeman](https://twitter.com/editingemily) and [Chloe Condon](https://twitter.com/ChloeCondon) about how their initial experience has been and what they'd do differently if they had a choice."
+Description = "How do you know what to expect when you transition into Community & DevRel? This month, PJ and Mary chat with [Emily Freeman](https://twitter.com/editingemily) and [Chloe Condon](https://twitter.com/ChloeCondon) about how their initial experience has been and what they'd do differently if they had a choice."
 podcast = "http://traffic.libsyn.com/communitypulse/ep21-breaking-into-devrel.mp3"
 podcast_duration = "27:48"
 aliases = ["/21"]

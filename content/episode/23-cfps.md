@@ -1,5 +1,5 @@
 +++
-Description = "Conference season is fast approaching, but we all know that the true preparation starts months ahead when all of the CFPs open. In this episode of Community Pulse, Mary, PJ, and Jason sit down with Open Source Consultant and author [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur) to chat about how to craft the best CFPs, navigating the land of limbo before you find out whether your talk has been accepted, and how to prepare the best talk once you've gotten your acceptance notice. Buckle up and get your notebook ready -- this is an episode full of tips and tricks and good advice from an expert."
+Description = "Conference season is fast approaching, but we all know that the true preparation starts months before. In this episode of Community Pulse, Mary, PJ, and Jason sit down with Open Source Consultant and author [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur) to chat about how to craft the best CFPs, navigating the land of limbo, and how to prepare the best talk once you've gotten your acceptance notice."
 podcast = "http://traffic.libsyn.com/communitypulse/ep23-cfps.mp3"
 podcast_duration = "45:50"
 aliases = ["/23"]
@@ -12,6 +12,10 @@ tags = ["cfp", "cfps", "speaking"]
 friendly = "23-cfps"
 title = "How to Submit the Best CFP of Your Life (And What to Do When It Gets Accepted)"
 +++
+
+## Show Notes
+
+Buckle up and get your notebook ready -- this is an episode full of tips and tricks and good advice from an expert.
 
 ### Links from the Show:
 

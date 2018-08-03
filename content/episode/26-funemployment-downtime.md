@@ -15,7 +15,7 @@ title = "Funemployment & Downtime"
 
 ### Checkouts:
 PJ:  
-* [The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory](https://www.amazon.com/dp/B001P7GGRS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory](https://www.amazon.com/dp/B001P7GGRS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  
 * Coheed And Cambria - Unearthly Creatures album
 
 Jason:  

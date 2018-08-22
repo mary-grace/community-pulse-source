@@ -16,7 +16,7 @@ title = "Funemployment & Downtime"
 ### Checkouts:
 PJ:  
 * [The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory](https://www.amazon.com/dp/B001P7GGRS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  
-* Coheed And Cambria - Unearthly Creatures album
+* [Coheed And Cambria - Unearthly Creatures album](https://store.coheedandcambria.com/music-1/the-unheavenly-colorway-exclusive-3-lp-set-digital-bundle.html)
 
 Jason:  
 * [The Art of Happiness](https://www.amazon.com/dp/B002UK6NO0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)

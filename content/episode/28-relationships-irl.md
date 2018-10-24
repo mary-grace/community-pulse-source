@@ -8,7 +8,7 @@ episode = "28"
 date = "2018-10-05"
 author = "mgthengvaall"
 categories = ["travel", "burnout"]
-tags = ["relationships", "travel", "burnout"]
+tags = ["relationships", "travel", "burnout", "community"]
 friendly = "28-relationships-irl"
 title = "RelationshipsIRL"
 +++

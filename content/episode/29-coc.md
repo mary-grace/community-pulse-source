@@ -1,8 +1,8 @@
 +++
 Description = "Jason flies solo on a great discussion of Codes of Conduct for events. We've brought in Carina C. Zona (CallBackWomen), Justin Reese (Code & Supply), and Tessa Mero (Cisco) to talk what works, what doesn't, andwhat happens when the CoC isn't followed."
 guests = ["jhand", "jreese", "tmero", "czona"]
-podcast = "http://traffic.libsyn.com/communitypulse/CPEp29-CodeOfConduct.mp3"
-podcast_duration = "39:12"
+podcast = "http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_29_-_Codes_of_Conduct.mp3"
+podcast_duration = "45:27"
 aliases = ["/29"]
 episode = "29"
 date = "2018-10-23"

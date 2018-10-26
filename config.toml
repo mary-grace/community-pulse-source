@@ -19,10 +19,10 @@ paginate = 9
 	redirect = "/:filename"
 
 [params]
-Twitter = "//twitter.com/community-pulse"
+Twitter = "//twitter.com/community_pulse"
 Description = "Community Builders Mary Thengvall, Jason Hand, and PJ Hagerty interview experts in the field of Community Leadership and Management on a broad range of topics related to building community."
 	[params.social]
-		twitter = "community-pulse"
+		twitter = "community_pulse"
 		youtube = "channel/UC3Mt417XSjzsIgekPWinKiw"
 		github = "mary-grace/community-pulse-source"
 	[params.authors]

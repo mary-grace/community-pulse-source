@@ -1,5 +1,5 @@
 +++
-Description = "Description: Twitter, Facebook, Instagram, LinkedIn...these are all major parts of what we use everyday to stay in touch with the communities we are involved in, personally and professionally. What happens though when those lines blur? When something you say from your personal life gets picked up by people involved in your professional life? Is it all worthwhile?"
+Description = "Twitter, Facebook, Instagram, LinkedIn...these are all major parts of what we use everyday to stay in touch with the communities we are involved in, personally and professionally. What happens though when those lines blur? When something you say from your personal life gets picked up by people involved in your professional life? Is it all worthwhile?"
 guests = ["efreeman", "hreed"]
 podcast = "http://traffic.libsyn.com/communitypulse/Episode_30_-_Twitter_Friend_or_Foe.mp3"
 podcast_duration = "48:17"

@@ -1,18 +1,15 @@
 +++
-Description = "PJ, Jason, and Mary joined up with [Kelsey Hightower](https://twitter.com/kelseyhightower) from Google Cloud Platform to chat about imposter syndrome: What is imposter syndrome? Is it actually a thing? How can we overcome imposter syndrome in ourselves? How can we prevent imposter syndrome in others?"
-podcast = "http://traffic.libsyn.com/communitypulse/ep24-imposter-syndrome.mp3"
-podcast_duration = "50:15"
-aliases = ["/24"]
-episode = "24"
-guests = ["khightower"]
-date = "2018-05-28"
-author = "Mary"
-categories = ["DevRel", "career"]
-tags = []
-friendly = "24-imposter-syndrome"
 title = "Imposter Syndrome"
+Description = "PJ, Jason, and Mary joined up with [Kelsey Hightower](https://twitter.com/kelseyhightower) from Google Cloud Platform to chat about imposter syndrome: What is imposter syndrome? Is it actually a thing? How can we overcome imposter syndrome in ourselves? How can we prevent imposter syndrome in others?"
+Date = 2018-05-28
+PublishDate = 2018-05-28
+podcast_file = "http://traffic.libsyn.com/communitypulse/ep24-imposter-syndrome.mp3"
+guests = ["khightower",] # The names of your guests, based on the filename without extension.
+episode = "24"
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/24",]
+explicit = "no" # values are "yes" or "no"
 +++
-
 ### Checkouts:
 
 Jason:  

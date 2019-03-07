@@ -69,7 +69,7 @@ Description = "Community Builders Mary Thengvall, Jason Hand, and PJ Hagerty int
     # googleplus = "ArrestedDevOps"
     # pinterest = "arresteddevops"
     # instagram = "arresteddevops"
-    youtube = "channel/UC3Mt417XSjzsIgekPWinKiw"
+    # youtube = "channel/UC3Mt417XSjzsIgekPWinKiw"
 
 	[params.authors]
 		[params.authors.Jason]

@@ -1,16 +1,14 @@
 +++
-Description = "Mary opens up to PJ and Jason about struggles to create an in-person personal community when we're so often on the road. Even us extroverts need some downtime from the tech community and a chance to connect with friends, but how do we go about creating deep friendships when we aren't home to invest in them?"
-guests = ["jhand", "pjhagerty", "mthengvall"]
-podcast = "http://traffic.libsyn.com/communitypulse/CPEp28-RelationshipsIRL.mp3"
-podcast_duration = "36:55"
-aliases = ["/28"]
-episode = "28"
-date = "2018-10-05"
-author = "mgthengvaall"
-categories = ["travel", "burnout"]
-tags = ["relationships", "travel", "burnout", "community"]
-friendly = "28-relationships-irl"
 title = "RelationshipsIRL"
+Description = "Mary opens up to PJ and Jason about struggles to create an in-person personal community when we're so often on the road. Even us extroverts need some downtime from the tech community and a chance to connect with friends, but how do we go about creating deep friendships when we aren't home to invest in them?"
+Date = 2018-10-05
+PublishDate = 2018-10-05
+podcast_file = "http://traffic.libsyn.com/communitypulse/CPEp28-RelationshipsIRL.mp3"
+guests = ["jhand","pjhagerty","mthengvall",] # The names of your guests, based on the filename without extension.
+episode = "28"
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/28",]
+explicit = "no" # values are "yes" or "no"
 +++
 ### Checkouts:
 Mary:  

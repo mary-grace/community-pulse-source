@@ -1,23 +1,17 @@
 +++
-Description = "[Jason Yee](https://twitter.com/gitbisect), [PJ Hagerty](https://twiter.com/aspleenic), and [Carina C. Zona](https://twitter.com/cczona) join us to talk through some of the prevalent struggles in community management. Trust us -- you'll simply want to listen."
-aliases = ["/06"]
-author = "Mary"
-categories = []
-date = "2016-04-11"
-episode = "06"
-friendly = "06-devrelsftw"
-guests = ["jyee", "pjhagerty", "cczona"]
-images = ["", ""]
-news_keywords = []
-podcast = "http://traffic.libsyn.com/communitypulse/ep06-devrelftw.mp3"
-podcast_bytes = ""
-podcast_duration = ""
-tags = []
 title = "#DevRelsFTW"
+Description = "[Jason Yee](https://twitter.com/gitbisect), [PJ Hagerty](https://twiter.com/aspleenic), and [Carina C. Zona](https://twitter.com/cczona) join us to talk through some of the prevalent struggles in community management. Trust us -- you'll simply want to listen."
+Date = 2016-04-11
+PublishDate = 2016-04-11
+podcast_file = "http://traffic.libsyn.com/communitypulse/ep06-devrelftw.mp3"
+guests = ["jyee","pjhagerty","cczona",] # The names of your guests, based on the filename without extension.
+episode = "06"
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/06",]
+explicit = "no" # values are "yes" or "no"
 youtube = "NzPoIBlJpng"
 
 +++
-
 This episode is an important one, and one of our most intense to date. We covered so much in this episode that we strongly suggest you simply listen, but here's the tl;dr:
 
 [Jason Yee](https://twitter.com/gitbisect), [PJ Hagerty](https://twiter.com/aspleenic), and [Carina C. Zona](https://twitter.com/cczona) join Jason and Mary to talk through some of the prevalent struggles in community management: what our roles actually entail (and how to communicate that to the rest of the company), how we define ourselves, how to protect our roles, what we need in order to survive the day in and day out of this job that we love, and if a company decides to let their community department go, how (and when) to do that.

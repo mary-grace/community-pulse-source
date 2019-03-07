@@ -1,18 +1,15 @@
 +++
-Description = "We sit down with [J. Paul Reed](https://twitter.com/jpreed) and [Greg Bulmash](https://twitter.com/yiddishninja) to chat about team dynamics, working between departments, and setting boundaries for your DevRel team."
-guests = ["jpreed", "gbulmash"]
-podcast = "http://traffic.libsyn.com/communitypulse/Ep26-TeamDynamics.mp3"
-podcast_duration = "45:34"
-aliases = ["/25"]
-episode = "25"
-date = "2018-06-14"
-author = "Mary"
-categories = ["teams"]
-tags = ["teams", "communication"]
-friendly = "25-team-dynamics"
 title = "Team Dynamics -- Your Team, Other Teams, and the Company 'Team'"
+Description = "We sit down with [J. Paul Reed](https://twitter.com/jpreed) and [Greg Bulmash](https://twitter.com/yiddishninja) to chat about team dynamics, working between departments, and setting boundaries for your DevRel team."
+Date = 2018-06-14
+PublishDate = 2018-06-14
+podcast_file = "http://traffic.libsyn.com/communitypulse/Ep26-TeamDynamics.mp3"
+guests = ["jpreed","gbulmash",] # The names of your guests, based on the filename without extension.
+episode = "25"
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/25",]
+explicit = "no" # values are "yes" or "no"
 +++
-
 ### Checkouts:
 Mary:  
 * [Nesting with Grace](http://nestingwithgrace.com/)  

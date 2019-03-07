@@ -1,23 +1,17 @@
 +++
-Description = "Jason and Mary talk to [Jono Bacon](https://twitter.com/jonobacon) about the difference between 'read' and 'write' communities. We also cover how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more."
-aliases = ["/02"]
-author = "Mary"
-categories = []
-date = "2015-09-29"
-episode = "02"
-friendly = "02-jono-bacon"
-guests = ["jbacon"]
-images = ["", ""]
-news_keywords = []
-podcast = "http://traffic.libsyn.com/communitypulse/ep02-jono-bacon.mp3"
-podcast_bytes = ""
-podcast_duration = ""
-tags = []
 title = "Jono Bacon: Father of Community"
+Description = "Jason and Mary talk to [Jono Bacon](https://twitter.com/jonobacon) about the difference between 'read' and 'write' communities. We also cover how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more."
+Date = 2015-09-29
+PublishDate = 2015-09-29
+podcast_file = "http://traffic.libsyn.com/communitypulse/ep02-jono-bacon.mp3"
+guests = ["jbacon",] # The names of your guests, based on the filename without extension.
+episode = "02"
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/02",]
+explicit = "no" # values are "yes" or "no"
 youtube = "dJPpp9uMExw"
 
 +++
-
 On this episode of Community Pulse, Jason and Mary talk to [Jono Bacon](http://twitter.com/jonobacon), Community Strategist and Leader, and author of [The Art of Community](https://www.amazon.com/Art-Community-Building-New-Participation/dp/1449312063). Jono joined Canonical in 2006 as a Community Manager, which provided a “stomping ground” for him to learn how to build good communities. It was here that he learned there is value in those individuals who can understand the interesting “connective tissue” between the people and the product.
 
 Throughout this 40 minute podcast, we’ll touch on the difference between “read” and “write” communities, how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more.

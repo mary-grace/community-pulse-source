@@ -1,18 +1,15 @@
 +++
-Description = "Conference season is fast approaching, but we all know that the true preparation starts months before. In this episode of Community Pulse, Mary, PJ, and Jason sit down with Open Source Consultant and author [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur) to chat about how to craft the best CFPs, navigating the land of limbo, and how to prepare the best talk once you've gotten your acceptance notice."
-podcast = "http://traffic.libsyn.com/communitypulse/ep23-cfps.mp3"
-podcast_duration = "45:50"
-aliases = ["/23"]
-episode = "23"
-guests = ["vmbrasseur"]
-date = "2018-04-14"
-author = "Mary"
-categories = ["DevRel", "events"]
-tags = ["cfp", "cfps", "speaking"]
-friendly = "23-cfps"
 title = "How to Submit the Best CFP of Your Life (And What to Do When It Gets Accepted)"
+Description = "Conference season is fast approaching, but we all know that the true preparation starts months before. In this episode of Community Pulse, Mary, PJ, and Jason sit down with Open Source Consultant and author [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur) to chat about how to craft the best CFPs, navigating the land of limbo, and how to prepare the best talk once you've gotten your acceptance notice."
+Date = 2018-04-14
+PublishDate = 2018-04-14
+podcast_file = "http://traffic.libsyn.com/communitypulse/ep23-cfps.mp3"
+guests = ["vmbrasseur",] # The names of your guests, based on the filename without extension.
+episode = "23"
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/23",]
+explicit = "no" # values are "yes" or "no"
 +++
-
 ## Show Notes
 
 Buckle up and get your notebook ready -- this is an episode full of tips and tricks and good advice from an expert.

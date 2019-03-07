@@ -1,18 +1,15 @@
 +++
-Description = "How do you know what to expect when you transition into Community & DevRel? This month, PJ and Mary chat with [Emily Freeman](https://twitter.com/editingemily) and [Chloe Condon](https://twitter.com/ChloeCondon) about their experience and what they wish they had known."
-podcast = "http://traffic.libsyn.com/communitypulse/ep21-breaking-into-devrel.mp3"
-podcast_duration = "27:48"
-aliases = ["/21"]
-episode = "21"
-guests = ["ccondon", "efreeman"]
-date = "2018-02-09"
-author = "Mary"
-categories = ["DevRel"]
-tags = [""]
-friendly = "21-breaking-into-devrel"
 title = "Breaking into DevRel"
+Description = "How do you know what to expect when you transition into Community & DevRel? This month, PJ and Mary chat with [Emily Freeman](https://twitter.com/editingemily) and [Chloe Condon](https://twitter.com/ChloeCondon) about their experience and what they wish they had known."
+Date = 2018-02-09
+PublishDate = 2018-02-09
+podcast_file = "http://traffic.libsyn.com/communitypulse/ep21-breaking-into-devrel.mp3"
+guests = ["ccondon","efreeman",] # The names of your guests, based on the filename without extension.
+episode = "21"
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/21",]
+explicit = "no" # values are "yes" or "no"
 +++
-
 <h2>Links from this episode:</h2>
 **DevRel / Tech Related:**  
 DevRel Weekly - http://devrelweekly.com/  

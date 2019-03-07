@@ -36,7 +36,7 @@ paginate = 9
 
 [params]
 site_theme = "grey"
-site_layout = "grid"
+site_layout = "row"
 enable_jumbo = "true"
 favicon = "favicon.ico"
 copyright_notice = "Copyright 2014-2019 [Community Pulse](https://www.communitypulse.io)"

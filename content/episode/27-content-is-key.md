@@ -1,16 +1,14 @@
 +++
-Description = "One important part of the Dev Advocate lifestyle is content creation, This can range from penning the perfect tweet to blog posts to docs and tutorials. Content matters when it comes to interacting with the Community. We’ll talk about content creation and working with folks who are not content creators to make the best of your project or community’s written record."
-guests = ["lmitchell"]
-podcast = "http://traffic.libsyn.com/communitypulse/ep27-content.mp3"
-podcast_duration = "39:51"
-aliases = ["/27"]
-episode = "27"
-date = "2018-08-22"
-author = "PJ"
-categories = ["content"]
-tags = ["content creation", "content management"]
-friendly = "27-content-is-key"
 title = "Content is Key!"
+Description = "One important part of the Dev Advocate lifestyle is content creation, This can range from penning the perfect tweet to blog posts to docs and tutorials. Content matters when it comes to interacting with the Community. We’ll talk about content creation and working with folks who are not content creators to make the best of your project or community’s written record."
+Date = 2018-08-22
+PublishDate = 2018-08-22
+podcast_file = "https://traffic.libsyn.com/communitypulse/ep27-content.mp3"
+guests = ["lmitchell",] # The names of your guests, based on the filename without extension.
+episode = "27"
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/27",]
+explicit = "no" # values are "yes" or "no"
 +++
 ### Checkouts:
 Lorna:

@@ -1,7 +1,7 @@
 +++
 Description = "Episode 18 finds Jason and PJ in Pittsburgh at Uptime Conf! We took the opportunity to sit down with Community Organizer and Pittsburgh Advocate, Justin Reese."
 guests = ["jreese"]
-podcast = "http://traffic.libsyn.com/communitypulse/ep18-justinreese-uptimeconf.mp3"
+podcast = "https://traffic.libsyn.com/communitypulse/ep18-justinreese-uptimeconf.mp3"
 podcast_duration = "26:19"
 aliases = ["/18"]
 episode = "18"

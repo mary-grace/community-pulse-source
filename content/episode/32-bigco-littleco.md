@@ -1,19 +1,15 @@
 +++
-Description = "In this episode, our hosts discuss the similarities and differences of working in Developer Relations in large organizations as compared to small ones. Joining us in the conversation are [Nathen Harvey](https://twitter.com/nathenharvey) (Google), [Maureen McElaney](https://twitter.com/Mo_Mack) (IBM), and [Matt Asay](https://twitter.com/mjasay) (Adobe)."
-guests = ["masay", "mmcelaney", "nharvey"]
-podcast = "http://traffic.libsyn.com/communitypulse/ep32-bigco-littleco.mp3"
-podcast_duration = "49:05"
-aliases = ["/32"]
-episode = "32"
-date = "2019-01-23"
-author = "mthengvall"
-categories = ["culture"]
-tags = ["culture", "startups", "enterprise"]
-friendly = "32-bigco-littleco"
 title = "Big Company, Little Company - The Differences in DevRel at Large and Small Companies"
-explicit = "yes"
+Description = "In this episode, our hosts discuss the similarities and differences of working in Developer Relations in large organizations as compared to small ones. Joining us in the conversation are [Nathen Harvey](https://twitter.com/nathenharvey) (Google), [Maureen McElaney](https://twitter.com/Mo_Mack) (IBM), and [Matt Asay](https://twitter.com/mjasay) (Adobe)."
+Date = 2019-01-23
+PublishDate = 2019-01-23
+podcast_file = "https://traffic.libsyn.com/communitypulse/ep32-bigco-littleco.mp3"
+guests = ["masay","mmcelaney","nharvey",] # The names of your guests, based on the filename without extension.
+episode = "32"
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/32",]
+explicit = "no" # values are "yes" or "no"
 +++
-
 ### Check Outs
 
 * Jason

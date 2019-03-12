@@ -1,19 +1,15 @@
 +++
-Description = "Twitter, Facebook, Instagram, LinkedIn...these are all major parts of what we use everyday to stay in touch with the communities we are involved in, personally and professionally. What happens though when those lines blur? When something you say from your personal life gets picked up by people involved in your professional life? Is it all worthwhile?"
-guests = ["efreeman", "hreed"]
-podcast = "http://traffic.libsyn.com/communitypulse/Episode_30_-_Twitter_Friend_or_Foe.mp3"
-podcast_duration = "48:17"
-aliases = ["/30"]
-episode = "30"
-date = "2018-11-30"
-author = "mthengvall"
-categories = ["social media", "twitter"]
-tags = ["social media"]
-friendly = "30-Twitter"
 title = "Twitter: Friend or Foe?"
-explicit = "yes"
+Description = "Twitter, Facebook, Instagram, LinkedIn...these are all major parts of what we use everyday to stay in touch with the communities we are involved in, personally and professionally. What happens though when those lines blur? When something you say from your personal life gets picked up by people involved in your professional life? Is it all worthwhile?"
+Date = 2018-11-30
+PublishDate = 2018-11-30
+podcast_file = "https://traffic.libsyn.com/communitypulse/Episode_30_-_Twitter_Friend_or_Foe.mp3"
+guests = ["efreeman","hreed",] # The names of your guests, based on the filename without extension.
+episode = "30"
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/30",]
+explicit = "no" # values are "yes" or "no"
 +++
-
 ### Check Outs
 
 * Jason

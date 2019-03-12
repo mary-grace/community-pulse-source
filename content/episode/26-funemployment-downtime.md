@@ -1,18 +1,15 @@
 +++
-Description = "What happens when you step out of the office and take a break for a while? Whether vacation or funemployment, downtime is important. But how do we do this while continuing to be part of our communities? Jason & PJ chat about these topics & more."
-guests = ["jhand", "pjhagerty"]
-podcast = "http://traffic.libsyn.com/communitypulse/ep26-funemployment.mp3"
-podcast_duration = "38:51"
-aliases = ["/26"]
-episode = "26"
-date = "2018-07-31"
-author = "Mary"
-categories = ["burnout"]
-tags = ["burnout", "vacation"]
-friendly = "26-funemployment-downtime"
 title = "Funemployment & Downtime"
+Description = "What happens when you step out of the office and take a break for a while? Whether vacation or funemployment, downtime is important. But how do we do this while continuing to be part of our communities? Jason & PJ chat about these topics & more."
+Date = 2018-07-31
+PublishDate = 2018-07-31
+podcast_file = "https://traffic.libsyn.com/communitypulse/ep26-funemployment.mp3"
+guests = ["jhand","pjhagerty",] # The names of your guests, based on the filename without extension.
+episode = "26"
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/26",]
+explicit = "no" # values are "yes" or "no"
 +++
-
 ### Checkouts:
 PJ:  
 * [The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory](https://www.amazon.com/dp/B001P7GGRS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  

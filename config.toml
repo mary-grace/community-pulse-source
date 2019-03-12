@@ -1,4 +1,4 @@
-BaseURL = "http://communitypulse.io"
+BaseURL = "https://communitypulse.io"
 # BaseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Community Pulse"
@@ -65,7 +65,7 @@ Description = "Community Pulse is the spot for Developer Relations and Community
     # facebook = ""
     # facebook_admin = ""  # This needs to be a page admin to get domain insights
     twitter = "community_pulse"
-    twitter_domain = "http://communitypulse.io/" # This domain shows in twitter cards as "View on `twitter_domain`"
+    twitter_domain = "https://communitypulse.io/" # This domain shows in twitter cards as "View on `twitter_domain`"
     # googleplus = ""
     # pinterest = ""
     # instagram = ""
@@ -87,7 +87,7 @@ Description = "Community Pulse is the spot for Developer Relations and Community
 			[params.authors.Mary.social]
 				github = "mary-grace"
 				twitter = "mary_grace"
-				homepage = "http://marythengvall.com"
+				homepage = "https://marythengvall.com"
 		[params.authors.PJ]
 			name = "PJ Hagerty"
 			thumbnail = "img/pj.jpg"
@@ -95,3 +95,4 @@ Description = "Community Pulse is the spot for Developer Relations and Community
 			[params.authors.PJ.social]
 				github = "aspleenic"
 				twitter = "aspleenic"
+				homepage = "http://devrelate.io"

@@ -3,7 +3,7 @@ title = "Metrics: Arch Nemesis of the Community Builder"
 Description = "Metrics tend to be the community builder's arch nemesis. In this episode, Jason and Mary sit down with community folks from Keen and Bitergia."
 Date = 2015-12-18
 PublishDate = 2015-12-18
-podcast_file = "http://traffic.libsyn.com/communitypulse/ep04-metrics.mp3"
+podcast_file = "https://traffic.libsyn.com/communitypulse/ep04-metrics.mp3"
 guests = ["tfalls","jbarahona",] # The names of your guests, based on the filename without extension.
 episode = "04"
 #hosts = [] # The names of your hosts, based on the filename without extension.
@@ -16,7 +16,7 @@ On this episode of the Community Pulse, Jason and Mary sit down with [Tim Falls]
 
 
 <h2>Check it Out:</h2>
-<ul><li>[Cauldron beta](http://biterg.io) -- community metrics for github repositories</li>
+<ul><li>[Cauldron beta](https://cauldron.io/) -- community metrics for github repositories</li>
 <li>[Evaluating Free / Open Source Software Projects](https://jgbarah.gitbooks.io/evaluating-foss-projects/) -- work-in-progress book</li>
 <li>[FCM2](http://flosscommunitymetrics.org/) -- FLOSS Community Metrics Meeting</li>
 <li>[FeverBee Sprint](http://sprint.feverbee.com/) -- conference about the psychology of community</li>

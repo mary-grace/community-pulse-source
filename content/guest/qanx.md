@@ -1,6 +1,5 @@
 +++
 Title = "Quintessence Anx"
-date = "2019-03-11T23:48:26-08:00"
 Twitter = "QuintessenceAnx"
 Website = ""
 Type = "guest"

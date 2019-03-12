@@ -39,57 +39,59 @@ site_theme = "grey"
 site_layout = "row"
 enable_jumbo = "true"
 favicon = "favicon.ico"
-copyright_notice = "Copyright 2014-2019 [Community Pulse](https://www.communitypulse.io)"
+copyright_notice = "Copyright 2015-2019 [Community Pulse](https://www.communitypulse.io)"
 itunes_subscribe = "https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2"
-android_subscribe = "http://subscribeonandroid.com/communitypulse.libsyn.com/rss"
-# google_play_subscribe = "https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
-# stitcher_subscribe = "http://www.stitcher.com/podcast/arrested-devops-2/arrested-devops"
-# pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
+android_subscribe = "https://www.subscribeonandroid.com/communitypulse.libsyn.com/rss"
+google_play_subscribe = "https://play.google.com/music/m/I6f2bjfqvy6aa2pk5wtzm4rcyh4?t=Community_Pulse"
+stitcher_subscribe = "https://www.stitcher.com/podcast/community-pulse"
+# pocketcasts_subscribe = ""
 rss_subscribe = "http://communitypulse.libsyn.com/rss" #only set this if you don't want to use the built-in feed
 
-Description = "Community Builders Mary Thengvall, Jason Hand, and PJ Hagerty interview experts in the field of Community Leadership and Management on a broad range of topics related to building community."
+Description = "Community Pulse is the spot for Developer Relations and Community professionals who are looking for information on building technical communities. Community Builders and DevRel veterans Jason Hand, Mary Thengvall, and PJ Hagerty interview experts in the field of Developer Relations and Community Leadership on a broad range of topics related to building community."
   [params.feed]
-    feed_copyright = "Copyright 2013-2018 Arrested DevOps" #do not use markdown in this field; it is used in the feed
-    itunes_subtitle = "There's always DevOps in the Banana Stand" #no markdown or HTML
-    itunes_author = "Matty Stratton, Trevor Hess, Jessica Kerr, and Bridget Kromhout" #no markdown or HTML
-    itunes_summary = "Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness." # Limited to 4000 characters or less, plain text, no HTML
-    itunes_owner_name = "Matt Stratton"
-    itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
-    itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
+    feed_copyright = "Copyright 2015-2019 Community Pulse" #do not use markdown in this field; it is used in the feed
+    #itunes_subtitle = "There's always DevOps in the Banana Stand" #no markdown or HTML
+    itunes_author = "Jason Hand, Mary Thengvall, and PJ Hagerty" #no markdown or HTML
+    itunes_summary = "Community Pulse is the spot for Developer Relations and Community professionals who are looking for information on building technical communities. Community Builders and DevRel veterans Jason Hand, Mary Thengvall, and PJ Hagerty interview experts in the field of Developer Relations and Community Leadership on a broad range of topics related to building community." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_owner_name = "Mary Thengvall"
+    itunes_owner_email = "mary@persea-consulting.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_image = "https://www.communitypulse.io/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
     itunes_top_category = "Technology"
     itunes_first_sub_category = "Software How-To"
     itunes_second_sub_category = "Tech News"
 
   [params.social]
     github = "mary-grace/community-pulse-source"
-    # facebook = "Arresteddevops"
-    # facebook_admin = "500557137"  # This needs to be a page admin to get domain insights
+    # facebook = ""
+    # facebook_admin = ""  # This needs to be a page admin to get domain insights
     twitter = "community_pulse"
     twitter_domain = "http://communitypulse.io/" # This domain shows in twitter cards as "View on `twitter_domain`"
-    # googleplus = "ArrestedDevOps"
-    # pinterest = "arresteddevops"
-    # instagram = "arresteddevops"
+    # googleplus = ""
+    # pinterest = ""
+    # instagram = ""
     # youtube = "channel/UC3Mt417XSjzsIgekPWinKiw"
 
 	[params.authors]
 		[params.authors.Jason]
 			name = "Jason Hand"
-			thumbnail = "img/jason.png"
-			bio = "DevOps Evangelist and Community Builder at VictorOps, organizer of DevOpsDays - Rockies, author of ChatOps for Dummies and O’Reilly’s ChatOps: Managing Operations from Group Chat. Jason has spent the last 3 years evangelizing for DevOps principles and concepts related to Post-mortems, ChatOps, Monitoring & Alerting, and the value of context within incident management. A frequent speaker at industry conferences and events around the country, Jason enjoys bring people together on a variety of technical and non-technical subjects."
+			thumbnail = "img/jhand.jpg"
+			bio = "Senior Cloud Ops Advocate at Microsoft. Jason Hand writes, presents, and coaches on the principles and nuance of DevOps, Site Reliability Engineering, and modern incident management practices. Named \"DevOps Evangelist of the Year\" by DevOps.com in 2016, Jason recently authored a new book on the topic of Site Reliability Engineering. In addition to SRE, Jason has authored books with O’Reilly Media on the subject of post-incident reviews and Chatops. DevOpsDays Rockies organizer and host of the Front-range Site Reliability Meetup, Jason is dedicated to the latest trends in technology, sharing the lessons learned, and helping people continuously improve their IT and software development practices."
 			[params.authors.Jason.social]
 				github = "jasonhand"
 				twitter = "jasonhand"
+				homepage = "https://jasonhand.com"
 	  [params.authors.Mary]
 			name	= "Mary Thengvall"
 			thumbnail = "img/mary.jpg"
-			bio = "Mary Thengvall is a connector of people at heart, both personally and professionally. She loves digging into the strategy of how to build and foster communities, and has been working with various developer communities for over 7 years. She's now building out the community strategy for SparkPost, an API-driven email delivery service."
+			bio = "Mary Thengvall is a connector of people at heart, both personally and professionally. She loves digging into the strategy of how to build and foster developer communities and has been doing so for over 10 years. In addition to her work, she's known for being \"the one with the dog,\" thanks to her ever-present medical alert service dog [Ember](https://twitter.com/ember_dog). She's also the author of the first book on Developer Relations: [The Business Value of Developer Relations](https://amzn.to/2PGl9gJ) ((c) 2018, Apress)"
 			[params.authors.Mary.social]
 				github = "mary-grace"
 				twitter = "mary_grace"
+				homepage = "http://marythengvall.com"
 		[params.authors.PJ]
 			name = "PJ Hagerty"
 			thumbnail = "img/pj.jpg"
-			bio = "Developer, writer, speaker, musician, and Technical Advocate at IBM Bluemix, PJ is known to travel the world speaking about programming and the way people think and interact. Traveling to conferences and meet ups around the world, PJ likes to spread the word on the importance of community and coding, stressing the importance of outreach and focusing on the human side of being a coder. He is also known for wearing hats."
+			bio = "Developer, writer, speaker, musician, and Founder of DevRelate.io, PJ is known to travel the world speaking about programming and the way people think and interact. Traveling to conferences and meet ups around the world, PJ likes to spread the word on the importance of community and coding, stressing the importance of outreach and focusing on the human side of being a coder. He is also known for wearing hats."
 			[params.authors.PJ.social]
 				github = "aspleenic"
 				twitter = "aspleenic"

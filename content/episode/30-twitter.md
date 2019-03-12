@@ -6,7 +6,7 @@ PublishDate = 2018-11-30
 podcast_file = "https://traffic.libsyn.com/communitypulse/Episode_30_-_Twitter_Friend_or_Foe.mp3"
 guests = ["efreeman","hreed",] # The names of your guests, based on the filename without extension.
 episode = "30"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/30",]
 explicit = "no" # values are "yes" or "no"
 +++

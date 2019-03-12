@@ -4,12 +4,11 @@ Description = "After all 3 hosts being in the same physical place at the same ti
 Date = 2017-04-20
 PublishDate = 2017-04-20
 podcast_file = "https://traffic.libsyn.com/communitypulse/ep16-devopsdays.mp3"
-guests = ["jhand","pjhagerty","mthengvall",] # The names of your guests, based on the filename without extension.
+guests = [] # The names of your guests, based on the filename without extension.
 episode = "16"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand","mthengvall","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/16",]
 explicit = "no" # values are "yes" or "no"
 youtube = "51q4mM3Zwm8"
 
 +++
-

@@ -6,13 +6,13 @@ PublishDate = 2018-02-09
 podcast_file = "https://traffic.libsyn.com/communitypulse/ep21-breaking-into-devrel.mp3"
 guests = ["ccondon","efreeman",] # The names of your guests, based on the filename without extension.
 episode = "21"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["mthengvall","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/21",]
-explicit = "no" # values are "yes" or "no"
+explicit = "yes" # values are "yes" or "no"
 +++
 <h2>Links from this episode:</h2>
 **DevRel / Tech Related:**  
-DevRel Weekly - http://devrelweekly.com/  
+DevRel Weekly - https://devrelweekly.com/  
 Tito Event Software - https://ti.to/
 
 **Books**  

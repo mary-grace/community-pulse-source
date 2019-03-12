@@ -4,9 +4,9 @@ Description = "What happens when you step out of the office and take a break for
 Date = 2018-07-31
 PublishDate = 2018-07-31
 podcast_file = "https://traffic.libsyn.com/communitypulse/ep26-funemployment.mp3"
-guests = ["jhand","pjhagerty",] # The names of your guests, based on the filename without extension.
+guests = [] # The names of your guests, based on the filename without extension.
 episode = "26"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/26",]
 explicit = "no" # values are "yes" or "no"
 +++

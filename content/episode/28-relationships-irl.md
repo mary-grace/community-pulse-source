@@ -4,9 +4,9 @@ Description = "Mary opens up to PJ and Jason about struggles to create an in-per
 Date = 2018-10-05
 PublishDate = 2018-10-05
 podcast_file = "https://traffic.libsyn.com/communitypulse/CPEp28-RelationshipsIRL.mp3"
-guests = ["jhand","pjhagerty","mthengvall",] # The names of your guests, based on the filename without extension.
+guests = [] # The names of your guests, based on the filename without extension.
 episode = "28"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand","mthengvall","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/28",]
 explicit = "no" # values are "yes" or "no"
 +++

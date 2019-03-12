@@ -6,10 +6,9 @@ PublishDate = 2017-02-13
 podcast_file = "https://traffic.libsyn.com/communitypulse/ep14-beginning.mp3"
 guests = ["kbannerman","eleonard",] # The names of your guests, based on the filename without extension.
 episode = "14"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand","mthengvall","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/14",]
 explicit = "no" # values are "yes" or "no"
 youtube = "Zeev70Hwj40"
 
 +++
-

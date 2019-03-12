@@ -6,7 +6,7 @@ PublishDate = 2018-04-14
 podcast_file = "https://traffic.libsyn.com/communitypulse/ep23-cfps.mp3"
 guests = ["vmbrasseur",] # The names of your guests, based on the filename without extension.
 episode = "23"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand","mthengvall","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/23",]
 explicit = "no" # values are "yes" or "no"
 +++

@@ -4,9 +4,9 @@ Description = "Jason flies solo on a great discussion of Codes of Conduct for ev
 Date = 2018-10-23
 PublishDate = 2018-10-23
 podcast_file = "https://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_29_-_Codes_of_Conduct.mp3"
-guests = ["jhand","jreese","tmero","czona",] # The names of your guests, based on the filename without extension.
+guests = ["jreese","tmero","czona",] # The names of your guests, based on the filename without extension.
 episode = "29"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand"] # The names of your hosts, based on the filename without extension.
 aliases = ["/29",]
 explicit = "no" # values are "yes" or "no"
 +++

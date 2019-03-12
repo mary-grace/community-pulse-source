@@ -6,10 +6,9 @@ PublishDate = 2016-11-21
 podcast_file = "https://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_10_-_Burnout_Part_One.mp3"
 guests = ["jfish","jwillis",] # The names of your guests, based on the filename without extension.
 episode = "10"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand","mthengvall","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/10",]
 explicit = "no" # values are "yes" or "no"
 youtube = "UNcjtwPQOz0"
 
 +++
-

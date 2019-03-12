@@ -6,10 +6,9 @@ PublishDate = 2017-01-13
 podcast_file = ""
 guests = ["mbroberg","kmugrage",] # The names of your guests, based on the filename without extension.
 episode = "13"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand","mthengvall","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/13",]
 explicit = "no" # values are "yes" or "no"
 youtube = "AcCwAWYqoUY"
 
 +++
-

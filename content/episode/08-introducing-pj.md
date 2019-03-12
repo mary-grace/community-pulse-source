@@ -6,10 +6,9 @@ PublishDate = 2016-07-27
 podcast_file = "https://traffic.libsyn.com/communitypulse/ep08-introducing-pj.mp3"
 guests = ["pjhagerty",] # The names of your guests, based on the filename without extension.
 episode = "08"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand","mthengvall","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/08",]
 explicit = "no" # values are "yes" or "no"
 youtube = "GXwnzRupnqs"
 
 +++
-

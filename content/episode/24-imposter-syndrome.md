@@ -4,9 +4,9 @@ Description = "PJ, Jason, and Mary joined up with [Kelsey Hightower](https://twi
 Date = 2018-05-28
 PublishDate = 2018-05-28
 podcast_file = "https://traffic.libsyn.com/communitypulse/ep24-imposter-syndrome.mp3"
-guests = ["khightower",] # The names of your guests, based on the filename without extension.
+guests = ["khightower"] # The names of your guests, based on the filename without extension.
 episode = "24"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand","mthengvall","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/24",]
 explicit = "no" # values are "yes" or "no"
 +++

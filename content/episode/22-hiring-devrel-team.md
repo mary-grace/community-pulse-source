@@ -6,8 +6,7 @@ PublishDate = 2018-03-10
 podcast_file = "https://traffic.libsyn.com/communitypulse/ep22-hiring-devrel.mp3"
 guests = ["mbroberg","jjubinski",] # The names of your guests, based on the filename without extension.
 episode = "22"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/22",]
 explicit = "no" # values are "yes" or "no"
 +++
-

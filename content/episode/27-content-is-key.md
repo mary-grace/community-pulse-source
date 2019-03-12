@@ -4,9 +4,9 @@ Description = "One important part of the Dev Advocate lifestyle is content creat
 Date = 2018-08-22
 PublishDate = 2018-08-22
 podcast_file = "https://traffic.libsyn.com/communitypulse/ep27-content.mp3"
-guests = ["lmitchell",] # The names of your guests, based on the filename without extension.
+guests = ["lmitchell"] # The names of your guests, based on the filename without extension.
 episode = "27"
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["jhand","mthengvall","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/27",]
 explicit = "no" # values are "yes" or "no"
 +++

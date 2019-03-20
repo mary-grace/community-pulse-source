@@ -7,6 +7,7 @@ podcast_file = "https://traffic.libsyn.com/communitypulse/33-event-organization.
 guests = ["aaldrich","qanx",]
 episode = "33"
 hosts = ["jhand","mthengvall","pjhagerty",]
+sponsors = ["ibmdeveloper",]
 aliases = ["/33",]
 explicit = "no" # values are "yes" or "no"
 +++
@@ -29,15 +30,6 @@ explicit = "no" # values are "yes" or "no"
 * PJ
   * [Combine.fm](https://combine.fm/) for sharing music - cool tool to aggregate Spotify, Youtube, Apple Music, Deezer, Google Play and more! By [@kudos](https://twitter.com/kudos)  
   * [Alexisonfire](https://combine.fm/spotify/album/6Cvt8vsgpxQ5DRG0nqW25B) - new single (possible new album soon) Familiar Drugs
-
-
-
-### Sponsored by:
-#### **[IBM Developer](https://developer.ibm.com/)**
-
-Are you building cloud applications with Java, AI, Machine Learning, Serverless, and Containers? IBM Developer provides a large number of Code Patterns, sample applications, articles, tutorials and videos to help you build faster. All code is available on GitHub. You can incorporate any code into existing applications or use it to start a new application. Simply go to [developer.ibm.com](https://developer.ibm.com) to access IBM Developer resources and start building.
-
-![](https://pbs.twimg.com/profile_images/1034839332605972480/9xT-TdbW_400x400.jpg)
 
 
 ### Enjoy the podcast?

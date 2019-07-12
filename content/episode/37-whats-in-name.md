@@ -15,7 +15,7 @@ explicit = "no" # values are "yes" or "no"
 +++
 
 ### Banana Bread Recipes
-* Bear:
+**Bear:**
 - Preheat oven to 350.
 - Sift dry ingredients together (honestly, dump in a bowl and fluff with a fork):
 -- 1.5c flour
@@ -30,7 +30,7 @@ explicit = "no" # values are "yes" or "no"
 - Bake in a loaf pan 1h15m.
 
 
-* Jeremy:
+**Jeremy:**
 Dry:
 2c flour
 1/2c sugar
@@ -51,16 +51,16 @@ Streusel:
 1/4c flour
 1t orange zest
 
-Preheat oven to 400F.
-Combine the dry ingredients thoroughly, then the wet ingredients (separately), then add the wet ingredients to the dry.
-Put into a loaf pan (or muffin pans).
-Combine streusel and then liberally sprinkle on top of the mixture in the pan(s).
-Bake for 40-45 minutes.
+- Preheat oven to 400F.
+- Combine the dry ingredients thoroughly, then the wet ingredients (separately), then add the wet ingredients to the dry.
+- Put into a loaf pan (or muffin pans).
+- Combine streusel and then liberally sprinkle on top of the mixture in the pan(s).
+- Bake for 40-45 minutes.
 
 ### Check Outs
 * PJ
   * [The Tyranny of Metrics](https://amzn.to/30vLcgo) by Jerry Z Muller
-  * Hunt-a-Killer - https://www.huntakiller.com/
+  * [Hunt-a-Killer](https://www.huntakiller.com/)
 
 * Mary
   * [Relevant Experience](http://www.relevantexperiencepod.com/) Podcast
@@ -69,7 +69,7 @@ Bake for 40-45 minutes.
 
 * Jason
   * [Devopsroadtrip.com](http://devopsroadtrip.com/)
-  * [Overcomplicated](https://amzn.to/2XHEa6j) - by Samuel Arbesman
+  * [Overcomplicated](https://amzn.to/2XHEa6j) by Samuel Arbesman
 
 * Bear
   * [No Hard Feelings](https://amzn.to/2S9NoXT) by Molly Duffy and Liz Fosslien

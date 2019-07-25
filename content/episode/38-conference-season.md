@@ -25,24 +25,29 @@ explicit = "no" # values are "yes" or "no"
 
 
 ### Check Outs
+
 * Amanda
   * [PagerDuty Summit](https://summit.pagerduty.com/) is open for registration - San Francisco, Sept 23-25
   * Listen to the poetry book, [Deaf Republic](https://www.bbc.co.uk/sounds/play/m0006128), on the BBC.
 
+
 * Matt
   * [Twilio Signal](https://signal.twilio.com/) - San Francisco, CA, Aug 6-7, 2019
   * [DevCom](https://www.devcom.global/) - Cologne, Aug 18-19, 2019
-  * [FrontEnd Connect]() -- if anyone's familiar with the conference, [let Matt know](https://twitter.com/mauerbac)!
-  * [Science & Technology section on Twitch]() -- specifically [CSharpFritz](https://www.twitch.tv/csharpfritz/videos)
+  * [FrontEnd Connect](https://frontend-con.io/) -- if anyone's familiar with the conference, [let Matt know](https://twitter.com/mauerbac)!
+  * [Science & Technology section on Twitch](https://www.twitch.tv/directory/game/Science%20%26%20Technology) -- specifically [CSharpFritz](https://www.twitch.tv/csharpfritz/videos)
+
 
 * PJ
   * [DevOps Days Buffalo](https://devopsdays.org/events/2019-buffalo/welcome/) - Buffalo, NY, Sept 26-27, 2019
-  * From Crimetown podcast - [The Ballad of Billy Balls]() - hosted by Io Tillet Wright
+  * From Crimetown podcast - [The Ballad of Billy Balls](https://www.theballadofbillyballs.com/) - hosted by Io Tillet Wright
   * Wu Tang Clan: [Of Mics and Men](https://www.sho.com/wu-tang-clan-of-mics-and-men)
+
 
 * Mary
   * [Abstractions](https://abstractions.io) - Pittsburgh, Aug 21-23, 2019. _Use discount code ChQ1Rs7bdZCwfJg for 10% off._
   * [CMX Summit](https://events.cmxhub.com/events/details/cmx-san-francisco-presents-cmx-summit-2019//#/code-join-me-at-cmx-summit-19) - Redwood City (Bay Area), Sept 5-6, 2019. _This link gets you 10% off._
+
 
 * Jason
   * [Artists Works](https://ArtistsWorks.com)

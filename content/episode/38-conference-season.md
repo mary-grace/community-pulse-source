@@ -27,7 +27,7 @@ explicit = "no" # values are "yes" or "no"
 ### Check Outs
 
 * Amanda
-  * [PagerDuty Summit](https://summit.pagerduty.com/) is open for registration - San Francisco, Sept 23-25
+  * [PagerDuty Summit](http://community.pagerduty.com/summit) is open for registration - San Francisco, Sept 23-25. Use the  code `PDS19SAT` for a great discount!
   * Listen to the poetry book, [Deaf Republic](https://www.bbc.co.uk/sounds/play/m0006128), on the BBC.
 
 

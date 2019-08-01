@@ -44,7 +44,7 @@ itunes_subscribe = "https://itunes.apple.com/us/podcast/community-pulse/id121836
 android_subscribe = "https://www.subscribeonandroid.com/communitypulse.libsyn.com/rss"
 google_play_subscribe = "https://play.google.com/music/m/I6f2bjfqvy6aa2pk5wtzm4rcyh4?t=Community_Pulse"
 stitcher_subscribe = "https://www.stitcher.com/podcast/community-pulse"
-# pocketcasts_subscribe = ""
+spotify_subscribe = "https://open.spotify.com/show/3I7g5W9fMSgpWu38zZMjet?si=D0lKBrnnS7mAU20i-V2v2g"
 rss_subscribe = "http://communitypulse.libsyn.com/rss" #only set this if you don't want to use the built-in feed
 
 Description = "Community Pulse is the spot for Developer Relations and Community professionals who are looking for information on building technical communities. Community Builders and DevRel veterans Jason Hand, Mary Thengvall, and PJ Hagerty interview experts in the field of Developer Relations and Community Leadership on a broad range of topics related to building community."

@@ -35,7 +35,5 @@ explicit = "no" # values are "yes" or "no"
 
 Are you building cloud applications with Java, AI, Machine Learning, Serverless and Containers? IBM Developer provides a large number of Code Patterns, sample applications, articles, tutorials and videos to help you build faster. All code is available on GitHub. You can incorporate any code into existing applications or use it to start a new application. Simply go to [developer.ibm.com](https://developer.ibm.com) to access IBM Developer resources and start building.
 
-![](https://pbs.twimg.com/profile_images/1034839332605972480/9xT-TdbW_400x400.jpg)
-
 ### Enjoy the podcast?
-Please take a few moments to leave us a review on [iTunes](https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2) and follow us on [Spotify](https://open.spotify.com/show/3I7g5WfMSgpWu38zZMjet?si=565TMb81SaWwrJYbAIeOxQ), or leave a review on one of the other many podcasting sites that we're on! Your support means a lot to us and helps us continue to produce episodes every month. Like all things Community, this too takes a a village.
+Please take a few moments to leave us a review on [iTunes](https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2) and follow us on [Spotify](https://open.spotify.com/show/3I7g5WfMSgpWu38zZMjet?si=565TMb81SaWwrJYbAIeOxQ), or leave a review on one of the other many podcasting sites that we're on! Your support means a lot to us and helps us continue to produce episodes every month. Like all things Community, this too takes a village.

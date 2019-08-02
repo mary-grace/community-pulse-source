@@ -10,6 +10,7 @@ dataDir = "data"
 # disqusShortname = "communitypulse"
 archetypedir = "archetypes"
 paginate = 9
+googleAnalytics = "UA-113313834-4"
 
 [permalinks]
 	page = "/:filename/"

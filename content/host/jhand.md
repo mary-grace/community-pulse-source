@@ -2,7 +2,7 @@
 host = "jhand"
 title = "Jason Hand"
 Twitter = "jasonhand"
-Website = "https://jasonhand.com"
+Website = "https://www.jasonhand.com"
 LinkedIn = "jasonhand24"
 Pronouns = "he/him"
 GitHub = "jasonhand"

@@ -3,7 +3,7 @@ title = "Open Source Community Management"
 Description = "In this episode of Community Pulse, Jason, PJ, and Mary talk to Rain Leander and Sherrie Rohde about their role as Community Managers for open source projects and how this differs from what’s now considered Developer Relations."
 Date = 2019-09-18
 PublishDate = 2019-09-18
-podcast_file = "http://traffic.libsyn.com/communitypulse/40-oss-cmgr.mp3"
+podcast_file = "https://traffic.libsyn.com/communitypulse/40-oss-cmgr.mp3"
 # episode_image = "img/episode/39-oss-cmgr.jpg" Commenting out for now until we switch to a grid format.
 episode_banner = "img/episode/39-oss-cmgr.jpg"
 episode = "40"
@@ -37,7 +37,7 @@ Apologies for the sub-par audio levels on this episode. Mary, PJ, and Rain recor
 
 * Jason Hand
   * [MeetEdgar.com](https://meetedgar.com/) - Social Media service
-  * [Azure Functions](https://cda.ms/11s) & [SignalR](https://cda.ms/11t) 
+  * [Azure Functions](https://cda.ms/11s) & [SignalR](https://cda.ms/11t)
 
 
 ### Enjoy the podcast?

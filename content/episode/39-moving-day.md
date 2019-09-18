@@ -1,5 +1,5 @@
 +++
-title = "Moving Day"
+title = "Moving Day: How to Change Jobs with Grace"
 Description = "Working with a specific community is great, but what happens when it’s time to change companies? Do you bring your community with you? Do you need to start over in a new community? What does it mean for your “personal brand”? Jason and PJ talk about all of these topics and more with this month’s guests, Alyss Noland and Joel Lord."
 Date = 2019-08-14
 PublishDate = 2019-08-14
@@ -14,11 +14,11 @@ aliases = ["/39",]
 explicit = "no" # values are "yes" or "no"
 +++
 
-What happens when you change jobs and have to move from one community to another? 
+What happens when you change jobs and have to move from one community to another?
 
-When it's time to look for a new job.. do you stick with the same community? Or do you seek out a change of some type.
+When it's time to look for a new job... do you stick with the same community? Or do you seek out a change of some type?
 
-Are there companies or brands that you can't see yourself ever working for? 
+Are there companies or brands that you can't see yourself ever working for?
 
 Listen in as Jason and PJ chat with guests Alyss Noland and Joel Lord on these topics and more
 
@@ -36,7 +36,7 @@ Listen in as Jason and PJ chat with guests Alyss Noland and Joel Lord on these t
   * [Calculate your carbon footprint](https://less.ca) and learn ways to offset it.
 
 
-* Alyss Nolan
+* Alyss Noland
   * Currently listening to The [Knowledge Project from Shane Parrish](https://fs.blog/the-knowledge-project/) and reading [Never Split The Difference by Chris Voss and Tal Rahz](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/B01COR1GM2/ref=sr_1_fkmr0_1?keywords=Never+Split+The+Difference+by+Chris+Voss+and+Tal+Rahz&qid=1565809314&s=gateway&sr=8-1-fkmr0)
 
 

@@ -1,1 +1,1 @@
-hugo --theme=community-pulse --buildDrafts=false --baseURL="$URL"
+hugo --theme=castanet --buildDrafts=false --baseURL="$URL"

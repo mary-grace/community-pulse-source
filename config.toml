@@ -22,20 +22,22 @@ googleAnalytics = "UA-113313834-4"
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
- [[Menu.Main]]
+# [menu]
+ [[menu.main]]
      name = "About"
      identifier = "about"
      url = "about"
- [[Menu.Main]]
+ [[menu.main]]
     name = "Contact"
     identifier = "contact"
     url = "contact"
- [[Menu.Main]]
+ [[menu.main]]
     name = "Guests"
     identifier = "guests"
     url = "guest"
 
 [params]
+mainSections = ["episode"]
 site_theme = "grey"
 site_layout = "row"
 enable_jumbo = "true"

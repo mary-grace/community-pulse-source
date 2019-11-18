@@ -134,12 +134,6 @@
         {{- $.Scratch.Set "truncate" 600 -}}
       {{- end -}}
     {{- end -}}
-    {{- with .Params.youtube -}}
-      {{- $.Scratch.Set "youtube" "true" -}}
-    {{- end -}}
-    {{- with .Params.episode_banner -}}
-      {{- $.Scratch.Set "episode_banner" "true" -}}
-    {{- end -}}
       <div class = "row homepage_episode_row">
         <div class = "col-md-12">
           <a href="{{ .Permalink }}" class= "grid_episode_title"><h3 class= "grid_episode_title">{{ .Title }}</h3></a>

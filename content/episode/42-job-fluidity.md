@@ -23,35 +23,35 @@ explicit = "no" # values are "yes" or "no"
 
 
 #### Mary Thengvall
-  * [Space: An Invitation to Create Sustainable Rhythms of Work, Play, and Rest](https://amzn.to/2BZh5Ui) by Manda Carpenter - There's a Christian devotional slant to it, but the information and messages are valuable no matter what religion you do (or don't) practice
-  * [Harley Merlin and the Secret Coven](https://amzn.to/2JHLmLD) series by Bella Forrest
-  * [Songland](https://www.nbc.com/songland) - NBC show on Hulu
+* [Space: An Invitation to Create Sustainable Rhythms of Work, Play, and Rest](https://amzn.to/2BZh5Ui) by Manda Carpenter - There's a Christian devotional slant to it, but the information and messages are valuable no matter what religion you do (or don't) practice
+* [Harley Merlin and the Secret Coven](https://amzn.to/2JHLmLD) series by Bella Forrest
+* [Songland](https://www.nbc.com/songland) - NBC show on Hulu
 
 
-* Jason Hand
-  * [Dog Monitor](https://apps.apple.com/us/app/dog-monitor/id626789870) (iOS)
-  * Microsoft Ignite Tour ([watch for the videos and tutorials](https://www.microsoft.com/en-us/ignite))
+#### Jason Hand
+* [Dog Monitor](https://apps.apple.com/us/app/dog-monitor/id626789870) (iOS)
+* Microsoft Ignite Tour ([watch for the videos and tutorials](https://www.microsoft.com/en-us/ignite))
 
 
-* SJ Morris
-  * [free-for.dev](https://free-for.dev): super handy list of free tiers for myriad of developer products
-  * [Short Path Distillery](https://shortpathdistillery.com/) in Everett, MA
+#### SJ Morris
+* [free-for.dev](https://free-for.dev): super handy list of free tiers for myriad of developer products
+* [Short Path Distillery](https://shortpathdistillery.com/) in Everett, MA
 
 
-* Shannon Burns
-  * William Larson’s [An Elegant Puzzle](https://amzn.to/2QDxI08) - a really interesting and useful book on the intricacies of engineering culture, organization and leadership challenges.
-  * [The Heavyweight Podcast](https://gimletmedia.com/shows/heavyweight). It’s just nice to have something heartwarming to listen to instead of getting depressed by the news ;)
+#### Shannon Burns
+* William Larson’s [An Elegant Puzzle](https://amzn.to/2QDxI08) - a really interesting and useful book on the intricacies of engineering culture, organization and leadership challenges.
+* [The Heavyweight Podcast](https://gimletmedia.com/shows/heavyweight). It’s just nice to have something heartwarming to listen to instead of getting depressed by the news ;)
 
 
-* Lauren Cooney
-  * [Redshirts](https://amzn.to/347NCnt) by John Scalzi
-  * [Twitter's Statement around political ads](https://twitter.com/jack/status/1189634360472829952)
-  * Fascinating number of people joining RedHat! Keep an eye on that space.
+#### Lauren Cooney
+* [Redshirts](https://amzn.to/347NCnt) by John Scalzi
+* [Twitter's Statement around political ads](https://twitter.com/jack/status/1189634360472829952)
+* Fascinating number of people joining RedHat! Keep an eye on that space.
 
 
-* Matt Broberg
-  * [TLDR command-line utility](https://tldr.sh/). Plain-english explanation of complex tools
-  * [Rhythm & Flow](https://www.netflix.com/title/80216665) on Netflix. A really authentic version of The Voice but for rap, with Cardi b, T.I., Chance the Rapper
+#### Matt Broberg
+* [TLDR command-line utility](https://tldr.sh/). Plain-english explanation of complex tools
+* [Rhythm & Flow](https://www.netflix.com/title/80216665) on Netflix. A really authentic version of The Voice but for rap, with Cardi b, T.I., Chance the Rapper
 
 
 ### Enjoy the podcast?

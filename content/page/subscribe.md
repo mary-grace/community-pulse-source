@@ -11,9 +11,10 @@ title = "subscribe"
 
 <div>Subscribe to <h2>Community Pulse</h2>
 <ul>
-<li>[iTunes](https://itunes.apple.com/us/podcast/community-pulse/id1045213365)</a>
-<li>[Stitcher](http://www.stitcher.com/s?fid=74680&refid=stpr)</a>
-<!--<li>[Android]()</a>-->
+<li>[iTunes](https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2)</a>
+<li>[Spotify](https://open.spotify.com/show/3I7g5W9fMSgpWu38zZMjet?si=D0lKBrnnS7mAU20i-V2v2g)
+<li>[Stitcher](https://www.stitcher.com/podcast/community-pulse)</a>
+<li>[Android](https://www.subscribeonandroid.com/communitypulse.libsyn.com/rss)
 <li>[RSS](http://communitypulse.libsyn.com/rss)</a>
 </ul>
 </div>

@@ -1,59 +1,5 @@
 # Change Log
 
-## [1.1.21](https://github.com/mattstratton/castanet/tree/1.1.21) (2019-11-25)
-**Closed issues:**
-
-- Grid layout page number buttons don’t work  [\#236](https://github.com/mattstratton/castanet/issues/236)
-
-## [1.1.20](https://github.com/mattstratton/castanet/tree/1.1.20) (2019-11-23)
-**Fixed bugs:**
-
-- \[Bug\] Trying to Switch Page Layouts [\#233](https://github.com/mattstratton/castanet/issues/233)
-
-**Merged pull requests:**
-
-- Fix pagination code on grid layout [\#235](https://github.com/mattstratton/castanet/pull/235) ([mattstratton](https://github.com/mattstratton))
-
-## [1.1.19](https://github.com/mattstratton/castanet/tree/1.1.19) (2019-11-18)
-**Closed issues:**
-
-- \[Bug\] Image Doesn't Show up on Page 2 of Episodes in List View [\#231](https://github.com/mattstratton/castanet/issues/231)
-- Replace Travis with CircleCI [\#216](https://github.com/mattstratton/castanet/issues/216)
-
-**Merged pull requests:**
-
-- Fix bug with episode banners on row view [\#232](https://github.com/mattstratton/castanet/pull/232) ([mattstratton](https://github.com/mattstratton))
-
-## [1.1.18](https://github.com/mattstratton/castanet/tree/1.1.18) (2019-11-16)
-## [1.1.17](https://github.com/mattstratton/castanet/tree/1.1.17) (2019-11-16)
-## [1.1.16](https://github.com/mattstratton/castanet/tree/1.1.16) (2019-11-16)
-## [1.1.15](https://github.com/mattstratton/castanet/tree/1.1.15) (2019-11-16)
-## [1.1.14](https://github.com/mattstratton/castanet/tree/1.1.14) (2019-11-16)
-## [1.1.13](https://github.com/mattstratton/castanet/tree/1.1.13) (2019-11-16)
-## [1.1.12](https://github.com/mattstratton/castanet/tree/1.1.12) (2019-11-16)
-## [1.1.11](https://github.com/mattstratton/castanet/tree/1.1.11) (2019-11-16)
-## [1.1.10](https://github.com/mattstratton/castanet/tree/1.1.10) (2019-11-16)
-## [1.1.9](https://github.com/mattstratton/castanet/tree/1.1.9) (2019-11-16)
-## [1.1.8](https://github.com/mattstratton/castanet/tree/1.1.8) (2019-11-16)
-## [1.1.7](https://github.com/mattstratton/castanet/tree/1.1.7) (2019-11-16)
-## [1.1.6](https://github.com/mattstratton/castanet/tree/1.1.6) (2019-11-16)
-## [1.1.5](https://github.com/mattstratton/castanet/tree/1.1.5) (2019-11-16)
-## [1.1.4](https://github.com/mattstratton/castanet/tree/1.1.4) (2019-11-16)
-## [1.1.3](https://github.com/mattstratton/castanet/tree/1.1.3) (2019-11-16)
-## [1.1.2](https://github.com/mattstratton/castanet/tree/1.1.2) (2019-11-16)
-**Merged pull requests:**
-
-- Add skeleton circleci config [\#230](https://github.com/mattstratton/castanet/pull/230) ([mattstratton](https://github.com/mattstratton))
-
-## [1.1.1](https://github.com/mattstratton/castanet/tree/1.1.1) (2019-11-16)
-**Fixed bugs:**
-
-- Drop down menu not working on iPhone  [\#228](https://github.com/mattstratton/castanet/issues/228)
-
-**Merged pull requests:**
-
-- Fix issue with navbar on mobile [\#229](https://github.com/mattstratton/castanet/pull/229) ([mattstratton](https://github.com/mattstratton))
-
 ## [1.1.0](https://github.com/mattstratton/castanet/tree/1.1.0) (2019-11-11)
 **Implemented enhancements:**
 

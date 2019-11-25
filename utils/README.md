@@ -8,5 +8,5 @@ This script will update this repo with a specific version of `castanet`. Run thi
 
 Usage:
 ```
-update-theme.sh <VERSION>
+utils/update-theme.sh <VERSION>
 ```

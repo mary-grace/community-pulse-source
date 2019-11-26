@@ -50,12 +50,12 @@ stitcher_subscribe = "https://www.stitcher.com/podcast/community-pulse"
 spotify_subscribe = "https://open.spotify.com/show/3I7g5W9fMSgpWu38zZMjet?si=D0lKBrnnS7mAU20i-V2v2g"
 rss_subscribe = "http://communitypulse.libsyn.com/rss" #only set this if you don't want to use the built-in feed
 
-Description = "Community Pulse is the spot for Developer Relations and Community professionals who are looking for information on building technical communities. Community Builders and DevRel veterans Jason Hand, Mary Thengvall, and PJ Hagerty interview experts in the field of Developer Relations and Community Leadership on a broad range of topics related to building community."
+Description = "Community Pulse is the spot for Developer Relations and Community professionals who are looking for information on building technical communities. Community Builders and DevRel veterans Jason Hand, Mary Thengvall, PJ Hagerty, and Sarah-Jane Morris interview experts in the field of Developer Relations and Community Leadership on a broad range of topics related to building community."
   [params.feed]
     feed_copyright = "Copyright 2015-2019 Community Pulse" #do not use markdown in this field; it is used in the feed
     #itunes_subtitle = "There's always DevOps in the Banana Stand" #no markdown or HTML
-    itunes_author = "Jason Hand, Mary Thengvall, and PJ Hagerty" #no markdown or HTML
-    itunes_summary = "Community Pulse is the spot for Developer Relations and Community professionals who are looking for information on building technical communities. Community Builders and DevRel veterans Jason Hand, Mary Thengvall, and PJ Hagerty interview experts in the field of Developer Relations and Community Leadership on a broad range of topics related to building community." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_author = "Jason Hand, Mary Thengvall, PJ Hagerty, and Sarah-Jane Morris" #no markdown or HTML
+    itunes_summary = "Community Pulse is the spot for Developer Relations and Community professionals who are looking for information on building technical communities. Community Builders and DevRel veterans Jason Hand, Mary Thengvall, PJ Hagerty, and Sarah-Jane Morris interview experts in the field of Developer Relations and Community Leadership on a broad range of topics related to building community." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Mary Thengvall"
     itunes_owner_email = "mary@persea-consulting.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
     itunes_image = "/img/communitypulse-logo.png" #fqdn to the image art for your podcast
@@ -99,3 +99,11 @@ Description = "Community Pulse is the spot for Developer Relations and Community
 				github = "aspleenic"
 				twitter = "aspleenic"
 				homepage = "http://devrelate.io"
+		[params.authors.SJ]
+			name = "Sarah-Jane Morris"
+			thumbnail = "img/sjmorris.jpg"
+			bio = "For the past 15 years, Sarah-Jane Morris has been growing and nurturing developer communities at various stages of growth; at startups like Context IO and Keen IO, at high growth companies like Shopify, and at corporations like Intel. SJ’s audacious vision to make every developer community diverse, welcoming and sustainable inspired her to launch [Listen Community Consulting](http://listen.community/) in 2019. Alongside Listen, she joined HubSpot’s Developer Relations team as a Senior Program Manager in November 2019."
+			[params.authors.SJ.social]
+				github = "SarahJaneMorris"
+				twitter = "SarahJaneMorris"
+				homepage = "https://listen.community/"

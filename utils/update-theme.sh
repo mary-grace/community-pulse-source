@@ -8,8 +8,8 @@ fi
 version=$1
 branch=release-theme-version-$version
 git checkout -b $branch
-wget https://github.com/mattstratton/castanet/releases/download/1.1.22/castanet-$version.zip
-rm -rf themes/castnet
+wget https://github.com/mattstratton/castanet/releases/download/$version/castanet-$version.zip
+rm -rf themes/castanet
 unzip castanet-$version.zip -d themes/castanet
 rm castanet-$version.zip
 git add themes/castanet

@@ -10,7 +10,7 @@ branch=release-theme-version-$version
 git checkout -b $branch
 wget https://github.com/mattstratton/castanet/releases/download/$version/castanet-$version.zip
 rm -rf themes/castanet
-unzip castanet-$version.zip -d themes/castanet
+unzip castanet-$version.zip -d themes/
 rm castanet-$version.zip
 git add themes/castanet
 git commit -m "Releasing theme version $version"

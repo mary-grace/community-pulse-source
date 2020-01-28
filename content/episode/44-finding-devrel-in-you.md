@@ -2,10 +2,10 @@
 title = "Finding the DevRel in You: Common Characteristics of Developer Relations Professionals"
 Description = "There are generally common threads in what makes a person pick a career path. Are there common characteristics for DevRel practitioners? What are they and what does one look for to see if they are ready for the DevRel life? Amanda Folson and Geertjan Wielanga join our hosts for a great conversation exploring these topics."
 Date = 2020-01-28
-PublishDate = 2020-01-20
+PublishDate = 2020-01-28
 podcast_file = "https://traffic.libsyn.com/communitypulse/44-finding-devrel-in-you.mp3"
 # episode_image = "img/episode/44-finding-devrel-in-you" Commenting out for now until we switch to a grid format.
-episode_banner = "img/episode/44-finding-devrel-in-you.jpg"
+episode_banner = "img/episode/44-finding-devrel-in-you-banner.jpg"
 episode = "44"
 guests = ["gwielanga", "afolson"]
 hosts = ["pjhagerty", "sjmorris"]

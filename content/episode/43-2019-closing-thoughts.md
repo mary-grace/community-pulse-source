@@ -8,6 +8,7 @@ podcast_file = "https://traffic.libsyn.com/communitypulse/Community_Pulse_-_Epis
 episode_banner = "img/episode/43-2019-wrap-up-banner.jpg"
 episode = "43"
 hosts = ["mthengvall", "pjhagerty", "jhand", "sjmorris"]
+sponsors = ["devada",]
 aliases = ["/43",]
 explicit = "no" # values are "yes" or "no"
 +++

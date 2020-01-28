@@ -9,7 +9,7 @@ episode_banner = "img/episode/44-finding-devrel-in-you.jpg"
 episode = "44"
 guests = ["gwielanga", "afolson"]
 hosts = ["pjhagerty", "sjmorris"]
-aliases = ["/43",]
+aliases = ["/44",]
 explicit = "no" # values are "yes" or "no"
 +++
 

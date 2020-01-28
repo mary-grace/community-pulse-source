@@ -15,7 +15,7 @@ explicit = "no" # values are "yes" or "no"
 ### Check Outs
 
 ##### PJ Hagerty
-* [OSMIHelp.org](OSMIHelp.org) is part of Amazon smile - donate today!
+* [OSMIHelp.org](https://OSMIHelp.org) is part of Amazon smile - donate today!
 
 
 ##### Mary Thengvall

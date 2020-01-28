@@ -4,12 +4,10 @@ Description = "Mary, Jason, and PJ officially welcome new host SJ Morris to the 
 Date = 2019-12-13
 PublishDate = 2019-12-13
 podcast_file = "http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_43_-_2019_Closing_Thoughts.mp3"
-# episode_image = "img/episode/42-job-fluidity.jpg" Commenting out for now until we switch to a grid format.
-episode_banner = "img/episode/43-2019-warp-up.jpg"
-episode = "42"
-# guests = ["mbroberg", "sburns", "lcooney"]
+# episode_image = "img/episode/43-2019-wrap-up.jpg" Commenting out for now until we switch to a grid format.
+episode_banner = "img/episode/43-2019-wrap-up-banner.jpg"
+episode = "43"
 hosts = ["mthengvall", "pjhagerty", "jhand", "sjmorris"]
-sponsors = ["devada",]
 aliases = ["/43",]
 explicit = "no" # values are "yes" or "no"
 +++

@@ -1,5 +1,20 @@
 # Change Log
 
+## [1.1.24](https://github.com/mattstratton/castanet/tree/1.1.24) (2019-12-01)
+**Closed issues:**
+
+- Per-show Tweet link leads to wrong pre-filled text in tweet [\#203](https://github.com/mattstratton/castanet/issues/203)
+
+**Merged pull requests:**
+
+- Fix twitter url in share button [\#239](https://github.com/mattstratton/castanet/pull/239) ([mattstratton](https://github.com/mattstratton))
+
+## [1.1.23](https://github.com/mattstratton/castanet/tree/1.1.23) (2019-11-29)
+**Merged pull requests:**
+
+- Consolidate social partial [\#237](https://github.com/mattstratton/castanet/pull/237) ([mattstratton](https://github.com/mattstratton))
+
+## [1.1.22](https://github.com/mattstratton/castanet/tree/1.1.22) (2019-11-25)
 ## [1.1.21](https://github.com/mattstratton/castanet/tree/1.1.21) (2019-11-25)
 **Closed issues:**
 

@@ -1,10 +1,6 @@
 +++
 title = "The Ethical DevRel"
-Description = "Events have a code of conduct. Projects often have rules of behavior for those who participate. There are expected rules we follow when creating content, from adhering to MLA style to ensuring ideas are delivered in a succinct way with value to the consumer.
-
-But when it comes to DevRel, there is no specific rule set or guidelines for practitioners. Beyond the external rules we need to follow as generally good humans, there is nothing to show how to be an ethical DevRel practitioner. So where does that leave us? 
-
-Coraline Ada Ehmke and Don Goodman-Wilson join us to discuss this difficult topic."
+Description = "Events have a code of conduct. Projects often have rules of behavior for those who participate. There are expected rules we follow when creating content, from adhering to MLA style to ensuring ideas are delivered in a succinct way with value to the consumer. But when it comes to DevRel, there is no specific rule set or guidelines for practitioners. Beyond the external rules we need to follow as generally good humans, there is nothing to show how to be an ethical DevRel practitioner. So where does that leave us? Coraline Ada Ehmke and Don Goodman-Wilson join us to discuss this difficult topic."
 Date = 2020-03-16
 PublishDate = 2020-03-16
 podcast_file = "https://traffic.libsyn.com/communitypulse/ep45-ethics.mp3"

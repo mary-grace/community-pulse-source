@@ -10,5 +10,23 @@ aliases = ["/45covid19-live",]
 episode_banner = "img/episode/cp-live-banner.jpg"
 +++
 
+### Show Notes
+* [Sarah Thiam’s post on online events](https://dev.to/truckerfling/community-management-in-a-crisis-coronavirus-lessons-part-2-6da)
+
+* [Tech Events Cancelled](https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8?blocks=hide)
+
+* [DevRel Weekly COVID-related resources](https://www.gettoby.com/p/t2cnftdvglsh)
+
+* [Minute on the Mic](https://twitter.com/nimbinatus/status/1235936677929025538)
+
+* [Zoom features](https://twitter.com/patrickdebois/status/1243108672269619200?s=20)
+
+* Online Events Platforms (outside of Zoom):
+[Hopin: Online Events Platform](https://hopin.to/)
+[BlueJeans](http://bluejeans.com)
+[Mozilla Hubs](https://hubs.mozilla.com/#/)
+
+
+
 ### Enjoy the podcast?
 Please take a few moments to leave us a review on [iTunes](https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2) and follow us on [Spotify](https://open.spotify.com/show/3I7g5WfMSgpWu38zZMjet?si=565TMb81SaWwrJYbAIeOxQ), or leave a review on one of the other many podcasting sites that we're on! Your support means a lot to us and helps us continue to produce episodes every month. Like all things Community, this too takes a village.

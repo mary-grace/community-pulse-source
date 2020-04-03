@@ -23,10 +23,10 @@ youtube = "nsBYdzbU4R4"
 
 * [Zoom features](https://twitter.com/patrickdebois/status/1243108672269619200?s=20)
 
-* Online Events Platforms (outside of Zoom):
-[Hopin: Online Events Platform](https://hopin.to/)
-[BlueJeans](http://bluejeans.com)
-[Mozilla Hubs](https://hubs.mozilla.com/#/)
+* Online Events Platforms (outside of Zoom):  
+[Hopin: Online Events Platform](https://hopin.to/)  
+[BlueJeans](http://bluejeans.com)  
+[Mozilla Hubs](https://hubs.mozilla.com/#/)  
 
 
 

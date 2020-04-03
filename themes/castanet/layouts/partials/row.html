@@ -20,11 +20,6 @@
         {{- $.Scratch.Set "truncate" 600 -}}
       {{- end -}}
     {{- end -}}
-    {{- with .Params.youtube -}}
-      {{- if . ne "" -}}
-        {{- $.Scratch.Set "youtube" "true" -}}
-      {{- end -}}
-    {{- end -}}
     {{- with .Params.episode_banner -}}
       {{- $.Scratch.Set "episode_banner" "true" -}}
     {{- end -}}
@@ -239,7 +234,7 @@
     		<a href="{{ $paginator.Prev.URL }}" class="page-link"> &laquo; </a>
     	</li>
   {{ end }}
-  
+
   <!-- page # buttons -->
   {{ range $pag.Pagers }}
     {{ $cur := .PageNumber }}
@@ -250,14 +245,14 @@
       <li class="disabled page-item"><a name="" class="page-link hidden-md-down">&hellip;</a></li>
     {{ end }}
   {{ end }}
-  
+
   <!-- next page button -->
   {{- with $paginator.HasNext -}}
   <li class="page-item">
     <a href="{{ $paginator.Next.URL }}" class="page-link"> &raquo; </a>
   </li>
   {{ end }}
-  
+
   <!-- last page button -->
   {{ if lt $paginator.PageNumber (sub $paginator.TotalPages 1) }}
     {{- with $paginator.Last -}}

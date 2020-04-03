@@ -12,7 +12,6 @@ youtube = "nsBYdzbU4R4"
 
 +++
 
-### Show Notes
 * [Sarah Thiam’s post on online events](https://dev.to/truckerfling/community-management-in-a-crisis-coronavirus-lessons-part-2-6da)
 
 * [Tech Events Cancelled](https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8?blocks=hide)
@@ -23,10 +22,10 @@ youtube = "nsBYdzbU4R4"
 
 * [Zoom features](https://twitter.com/patrickdebois/status/1243108672269619200?s=20)
 
-* Online Events Platforms (outside of Zoom):
-[Hopin: Online Events Platform](https://hopin.to/)
-[BlueJeans](http://bluejeans.com)
-[Mozilla Hubs](https://hubs.mozilla.com/#/)
+* Online Events Platforms (outside of Zoom):  
+[Hopin: Online Events Platform](https://hopin.to/)  
+[BlueJeans](http://bluejeans.com)  
+[Mozilla Hubs](https://hubs.mozilla.com/#/)  
 
 
 

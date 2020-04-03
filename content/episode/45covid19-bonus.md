@@ -8,6 +8,8 @@ hosts = ["pjhagerty", "sjmorris", "mthengvall", "jhand"] # The names of your hos
 aliases = ["/45covid19-live",]
 # episode_image = "img/episode/cp-live" Commenting out for now until we switch to a grid format.
 episode_banner = "img/episode/cp-live-banner.jpg"
+youtube = "nsBYdzbU4R4"
+
 +++
 
 ### Show Notes

@@ -37,6 +37,6 @@ explicit = "no" # values are "yes" or "no"
 * [365 Meaningful Conversations](https://365meaningfulconversations.com/)
 
 ### Links
-
+[Developer Relations and Developer Marketing…they aren’t the same thing](https://medium.com/@aspleenic/developer-relations-and-developer-marketing-they-arent-the-same-thing-35b896159825) by PJ Hagerty 
 
 Cover image by [Ricardo Gomez Angel](https://unsplash.com/@ripato?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).

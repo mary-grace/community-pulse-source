@@ -1,5 +1,5 @@
 BaseURL = "https://communitypulse.io"
-# BaseURL = "http://localhost:1313/"
+# BaseURL = "/"
 languageCode = "en-us"
 title = "Community Pulse"
 theme = "castanet"
@@ -16,8 +16,8 @@ googleAnalytics = "UA-113313834-4"
 	page = "/:filename/"
 	about = "/:filename/"
 	episode = "/:filename/"
-	sponsor = "/:filename"
-	redirect = "/:filename"
+	sponsor = "/:filename/"
+	redirect = "/:filename/"
 
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
@@ -26,15 +26,15 @@ googleAnalytics = "UA-113313834-4"
  [[menu.main]]
      name = "About"
      identifier = "about"
-     url = "about"
+     url = "/about"
  [[menu.main]]
     name = "Contact"
     identifier = "contact"
-    url = "contact"
+    url = "/contact"
  [[menu.main]]
     name = "Guests"
     identifier = "guests"
-    url = "guest"
+    url = "/guest"
 
 [params]
 mainSections = ["episode"]

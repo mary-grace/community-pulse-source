@@ -1,10 +1,11 @@
 +++
-title = "Connecting with our communities online is more important than ever right now. However, this isn’t something ALL DevRel teams are accustomed to. In some cases, much of the online efforts have been relegated to “community management” or support. Marjorie Anderson and Wesley Faulkner join us to talk about online communities, sharing tips, tricks, and best practices from their combined 20 years of experience."
-Date = 2020-05-11
+title = "Online Community Management: How DevRel is Going Virtual"
+Description = "Connecting with our communities online is more important than ever right now. However, this isn’t something ALL DevRel teams are accustomed to. In some cases, much of the online efforts have been relegated to “community management” or support. Marjorie Anderson and Wesley Faulkner join us to talk about online communities, sharing tips, tricks, and best practices from their combined 20 years of experience."
+Date = 2020-05-08
 PublishDate = 2020-05-11
 podcast_file = "https://traffic.libsyn.com/communitypulse/ep47-online-communities-going-virtual.mp3"
 # episode_image = "img/episode/47-online-community.jpg" Commenting out for now until we switch to a grid format.
-episode_banner = "img/episode/47-online-community.jpg"
+episode_banner = "img/episode/47-online-community-banner.jpg"
 episode = "47"
 guests = ["wfaulkner", "manderson"]
 hosts = ["jhand", "sjmorris", "pjhagerty"]

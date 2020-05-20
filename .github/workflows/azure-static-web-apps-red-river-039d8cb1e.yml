@@ -16,8 +16,8 @@ jobs:
     name: Build and Deploy Job
     steps:
     - uses: actions/checkout@v2
-         with:
-          submodules: true
+      with:
+        submodules: true
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.4.8

@@ -19,10 +19,10 @@ jobs:
       with:
         submodules: true
 
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2.4.8
-      with:
-        hugo-version: 0.58.3
+- name: Setup Hugo
+    uses: peaceiris/actions-hugo@v2.4.8
+    with:
+      hugo-version: 0.58.3
 
 - name: Build
   run: hugo

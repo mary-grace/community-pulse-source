@@ -2,9 +2,7 @@
 
 # Tell user we are downloading the markdown file and then wget to obtain
 echo "Downloading episode markdown"
-wget
-https://jhandcdn.blob.core.windows.net/blob/hug_markdown_files/50-The-Year-of-Automation-6.md
--P /content/episode/
+wget https://jhandcdn.blob.core.windows.net/blob/hug_markdown_files/50-The-Year-of-Automation-6.md -P /content/episode/
 # Git Steps
 echo "Sync'ing with repo"
 git add .

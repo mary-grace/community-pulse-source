@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 
-wget 'https://jhandcdn.blob.core.windows.net/blob/hugo/48-Title-Of-Post-9.md'
+wget 'https://jhandcdn.blob.core.windows.net/blob/hugo/49-Title-Of-Post-9.md'
 
-mv 48-Title-Of-Post-9.md content/episode/
+mv 49-Title-Of-Post-9.md content/episode/
 echo "Ready to Push? (y/n)"
 read Answer
 # Git Steps
 #echo "Sync'ing with repo"
 git add .
-git commit -m "Skipping 47 and Recording 48"
+git commit -m "That Was a Great Episode 49"
 git push origin master
 echo "######################"
 echo "This has completed"

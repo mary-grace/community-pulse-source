@@ -3,8 +3,7 @@
 # Tell user we are downloading the markdown file and then wget to obtain
 echo "Downloading episode markdown"
 echo "#####"
-wget
-"https://jhandcdn.blob.core.windows.net/blob/hugo/This-Might-Be-Best-Episode-6.md"
+wget "https://jhandcdn.blob.core.windows.net/blob/hugo/This-Might-Be-Best-Episode-6.md"
 echo "#####"
 mv This-Might-Be-Best-Episode-6.md content/episode/
 # Git Steps

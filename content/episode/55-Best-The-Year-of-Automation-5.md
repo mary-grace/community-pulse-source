@@ -1,8 +1,8 @@
 +++
-title="50-The-Year-of-Automation"
+title="55-Best-The-Year-of-Automation"
 description ="This is the description of the episode"
 date = "2020-05-22T12:39:33.02Z"
-publishdate ="2020-05-22T13:19:19.543Z"
+publishdate ="2020-05-22T14:11:04.24Z"
 podcast_file= "jhand.dev/4"
 episode_banner = "jhand/dev/5"
 episode = "50"

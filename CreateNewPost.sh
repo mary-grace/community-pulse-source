@@ -3,8 +3,8 @@
 # Tell user we are downloading the markdown file and then wget to obtain
 echo "Downloading episode markdown"
 wget
-https://jhandcdn.blob.core.windows.net/blob/hug_markdown_files/Community-Pulse-Has-New-Automation-2020-05-22T12:12:01.017Z.md
--P /content/episodes/
+https://jhandcdn.blob.core.windows.net/blob/hug_markdown_files/This-Should-Rename-The-Script-2020-05-22T12:36:28.15Z.md?sv=2018-03-28&sr=b&sig=%2F1IvpSg23%2B%2BtNkf%2FfEZoMwZNfdFj0W3A4I6xFSTfN5s%3D&se=2020-05-23T12%3A36%3A38Z&sp=r
+-P /content/episode/
 # Git Steps
 echo "Sync'ing with repo"
 git add .
@@ -13,4 +13,3 @@ git push origin master
 echo "######################"
 echo "This has completed"
 echo "#######################"
-rm Community-Pulse-Has-New-Automation-2020-05-22T12:12:01.017Z.sh

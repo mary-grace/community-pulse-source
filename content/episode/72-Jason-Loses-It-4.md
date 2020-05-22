@@ -1,14 +1,14 @@
 +++
-title="This-Might-Be-Best-Episode"
-description ="This is the description of the episode"
-date = "2020-05-22T12:39:33.02Z"
-publishdate ="2020-05-22T14:14:31.97Z"
-podcast_file= "jhand.dev/4"
-episode_banner = "jhand/dev/5"
-episode = "50"
-guests = ["Bill Gates", ""]
+title="72-Jason-Loses-It"
+description ="In this episode, Jason loses his mind (a bit)"
+date = "2020-05-22T14:41:06.997Z"
+publishdate ="2020-05-22T14:42:32.28Z"
+podcast_file= "sdfs"
+episode_banner = "sdf"
+episode = "72"
+guests = ["sdf", "fsd"]
 hosts = ["Jason Hand"]
-aliases = ["/50"]
+aliases = ["/72"]
 explicit = ["False"]
 +++
 

@@ -10,7 +10,7 @@ hosts = ["mthengvall","pjhagerty"] # The names of your hosts, based on the filen
 aliases = ["/21",]
 explicit = "yes" # values are "yes" or "no"
 +++
-<h2>Links from this episode:</h2>
+### Links
 **DevRel / Tech Related:**  
 DevRel Weekly - https://devrelweekly.com/  
 Tito Event Software - https://ti.to/
@@ -31,3 +31,6 @@ Notist Speaking Portfolio - https://noti.st/
 Non Player Character at SFPlayhouse - https://www.sfplayhouse.org/sfph/2017-2018-season/non-player-character/  
 JukeBox - http://jqbx.fm/  
 Sorry Wrong Number - https://en.wikipedia.org/wiki/Sorry,_Wrong_Number
+
+### Enjoy the podcast?
+Please take a few moments to leave us a review on [iTunes](https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2) and follow us on [Spotify](https://open.spotify.com/show/3I7g5WfMSgpWu38zZMjet?si=565TMb81SaWwrJYbAIeOxQ), or leave a review on one of the other many podcasting sites that we're on! Your support means a lot to us and helps us continue to produce episodes every month. Like all things Community, this too takes a village.

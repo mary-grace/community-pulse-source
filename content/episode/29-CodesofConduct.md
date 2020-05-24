@@ -9,6 +9,8 @@ episode = "29"
 hosts = ["jhand"] # The names of your hosts, based on the filename without extension.
 aliases = ["/29",]
 explicit = "no" # values are "yes" or "no"
+# episode_image = "img/episode/29-codesofconduct.jpg" Commenting out for now until we switch to a grid format.
+episode_banner = "img/episode/29-codesofconduct-banner.jpg"
 +++
 ### Check Outs
 
@@ -28,7 +30,8 @@ explicit = "no" # values are "yes" or "no"
      * To provide a mechanism for resolving conflicts when they arise.
      * To make our team welcoming to people from different backgrounds. Diversity is critical; for us to be successful, many different perspectives and backgrounds are necessary.
 
-
+### Links
+Cover image by [Sebastian Pichler](https://unsplash.com/@pichler_sebastian).
 
 ### Sponsored by:
 #### **[IBM Developer](https://developer.ibm.com/)**

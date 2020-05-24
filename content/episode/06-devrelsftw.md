@@ -41,3 +41,6 @@ How do we protect ourselves?
 <h3>to decompress:</h3>
 <ul><li>[Fuller House](https://www.netflix.com/title/80051137) (skip the first episode)</li>
 <li>[Peewee's Big Holiday](https://www.netflix.com/title/80031800)</li></ul>
+
+### Enjoy the podcast?
+Please take a few moments to leave us a review on [iTunes](https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2) and follow us on [Spotify](https://open.spotify.com/show/3I7g5WfMSgpWu38zZMjet?si=565TMb81SaWwrJYbAIeOxQ), or leave a review on one of the other many podcasting sites that we're on! Your support means a lot to us and helps us continue to produce episodes every month. Like all things Community, this too takes a village.

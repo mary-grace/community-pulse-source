@@ -33,6 +33,8 @@ explicit = "no" # values are "yes" or "no"
 * Jesse Davis
   * As an outdoor enthusiast and a father of 3 boys, I’ve recently become fascinated with the idea of Nature Deficit Disorder. The idea that as our society becomes more connected we lose touch with those things that we need most of all: fresh air, peace and quiet, and uninterrupted connection with other humans in a natural setting. I’m working on ways to build that within my tightest community, my wife and kids, by doing more hiking, fishing, and campfire time.
 
+### Links
+Cover image by [Kaitlyn Chow](https://unsplash.com/@kaitlynraeann).
 
 ### Enjoy the podcast?
 Please take a few moments to leave us a review on [iTunes](https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2) and follow us on [Spotify](https://open.spotify.com/show/3I7g5WfMSgpWu38zZMjet?si=565TMb81SaWwrJYbAIeOxQ), or leave a review on one of the other many podcasting sites that we're on! Your support means a lot to us and helps us continue to produce episodes every month. Like all things Community, this too takes a village.

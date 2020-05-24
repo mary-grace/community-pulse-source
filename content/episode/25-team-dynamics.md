@@ -9,6 +9,8 @@ episode = "25"
 hosts = ["jhand","mthengvall","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/25",]
 explicit = "no" # values are "yes" or "no"
+# episode_image = "img/episode/25-team-dynamics.jpg" Commenting out for now until we switch to a grid format.
+episode_banner = "img/episode/25-team-dynamics-banner.jpg"
 +++
 ### Checkouts:
 Mary:  
@@ -31,3 +33,10 @@ Greg:
 Paul:  
 * [REdeploy](https://re-deploy.io) - CFP closes June 15; conference is Aug 16-17 in San Francisco; Early Bird tickets are available now! We'll be talking more about team dynamics & how to make a team (and individuals) resilient.  
 * [Nailed It](https://www.netflix.com/title/80179138) - Netflix show
+
+### Links
+Cover image by [Pascal Swier](https://unsplash.com/@pascalswier16).
+
+
+### Enjoy the podcast?
+Please take a few moments to leave us a review on [iTunes](https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2) and follow us on [Spotify](https://open.spotify.com/show/3I7g5WfMSgpWu38zZMjet?si=565TMb81SaWwrJYbAIeOxQ), or leave a review on one of the other many podcasting sites that we're on! Your support means a lot to us and helps us continue to produce episodes every month. Like all things Community, this too takes a village.

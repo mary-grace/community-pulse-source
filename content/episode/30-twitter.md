@@ -9,6 +9,8 @@ episode = "30"
 hosts = ["jhand","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/30",]
 explicit = "no" # values are "yes" or "no"
+# episode_image = "img/episode/30-twitter.jpg" Commenting out for now until we switch to a grid format.
+episode_banner = "img/episode/30-twitter-banner.jpg"
 +++
 ### Check Outs
 
@@ -28,7 +30,8 @@ explicit = "no" # values are "yes" or "no"
   * [Beastie Boys Book](Beastie Boys Book)
   * [Renderforest](https://www.renderforest.com) - intro videos
 
-
+### Links
+Cover image by [Jon Tyson](https://unsplash.com/@jontyson).
 
 ### Sponsored by:
 #### **[IBM Developer](https://developer.ibm.com/)**

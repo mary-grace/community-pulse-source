@@ -22,3 +22,6 @@ Kathy Sierra — [blog](https://headrush.typepad.com/) and [XOXO talk](https://w
 <h3>Takeaways</h3>
 
 Launch stuff. Reach out. Be supportive.
+
+### Enjoy the podcast?
+Please take a few moments to leave us a review on [iTunes](https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2) and follow us on [Spotify](https://open.spotify.com/show/3I7g5WfMSgpWu38zZMjet?si=565TMb81SaWwrJYbAIeOxQ), or leave a review on one of the other many podcasting sites that we're on! Your support means a lot to us and helps us continue to produce episodes every month. Like all things Community, this too takes a village.

@@ -14,7 +14,7 @@ explicit = "no" # values are "yes" or "no"
 
 Buckle up and get your notebook ready -- this is an episode full of tips and tricks and good advice from an expert.
 
-### Links from the Show:
+### Links
 
 * [Forge Your Future with Open Source](https://pragprog.com/book/vbopens/forge-your-future-with-open-source) by VM (Vicky) Brasseur  
 * [SeaGL Code of Practice](http://seagl.org/news/2018/04/09/code_of_practice.html)  
@@ -40,3 +40,6 @@ PJ:
 Vicky:  
 * [The No Assholes Rule](https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/1600245854) by Robert I. Sutton  
 * [Open Source: Introverts Together](http://introvertstogether.com/)
+
+### Enjoy the podcast?
+Please take a few moments to leave us a review on [iTunes](https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2) and follow us on [Spotify](https://open.spotify.com/show/3I7g5WfMSgpWu38zZMjet?si=565TMb81SaWwrJYbAIeOxQ), or leave a review on one of the other many podcasting sites that we're on! Your support means a lot to us and helps us continue to produce episodes every month. Like all things Community, this too takes a village.

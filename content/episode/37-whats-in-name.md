@@ -4,7 +4,7 @@ Description = "Developer Advocate. Community Engineer. Developer Evangelist. Com
 Date = 2019-07-11
 PublishDate = 2019-07-11
 podcast_file = "https://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_37_-_Whats_in_a_Name.mp3"
-# episode_image = "img/episode/37-whats-in-name" Commenting out for now until we switch to a grid format.
+# episode_image = "img/episode/37-whats-in-name.jpg" Commenting out for now until we switch to a grid format.
 episode_banner = "img/episode/37-whats-in-name-banner.jpg"
 episode = "37"
 guests = ["bdouglas", "jmeiss",]
@@ -79,7 +79,8 @@ Streusel:
   * [Radical Candor](https://amzn.to/2XJkBdC) by Kim Scott
   * [The Indispensible Community](https://amzn.to/2YRIPUK) by Richard Millington
 
-
+### Links
+Cover image by [Naassom Azevedo](https://unsplash.com/@naassomz1).
 
 
 ### Enjoy the podcast?

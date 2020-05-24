@@ -9,6 +9,8 @@ episode = "28"
 hosts = ["jhand","mthengvall","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/28",]
 explicit = "no" # values are "yes" or "no"
+# episode_image = "img/episode/28-relationships-irl.jpg" Commenting out for now until we switch to a grid format.
+episode_banner = "img/episode/28-relationships-irl-banner.jpg"
 +++
 ### Checkouts:
 Mary:  
@@ -24,6 +26,9 @@ PJ:
 
 * PJ is committing to have an album out by the end of the year. Stay tuned (pun fully intended)!  
 * Jolt Cola has returned to stores! "All the sugar and twice the caffeine."
+
+### Links
+Cover image by [Helena Lopes](https://unsplash.com/@wildlittlethingsphoto).
 
 ### Sponsored by:
 #### **[IBM Developer](https://developer.ibm.com/)**

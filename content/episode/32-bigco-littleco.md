@@ -9,6 +9,9 @@ episode = "32"
 hosts = ["jhand","pjhagerty"] # The names of your hosts, based on the filename without extension.
 aliases = ["/32",]
 explicit = "no" # values are "yes" or "no"
+# episode_image = "img/episode/32-bigco-littleco.jpg" Commenting out for now until we switch to a grid format.
+episode_banner = "img/episode/32-bigco-littleco-banner.jpg"
+
 +++
 ### Check Outs
 
@@ -25,6 +28,9 @@ explicit = "no" # values are "yes" or "no"
 * PJ
   * [Gmorning, Gnight!: Little Pep Talks for Me & You](https://amzn.to/2TaMTMS) by Lin-Manuel Miranda
   * [Sandusky](https://soundcloud.com/single-serving-friends/sandusky) - original music from PJ, recorded at CodeMash in Ohio
+
+### Links
+Cover image by [Samson](https://unsplash.com/@samsonyyc).
 
 ### Sponsored by:
 #### **[IBM Developer](https://developer.ibm.com/)**

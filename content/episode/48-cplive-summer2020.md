@@ -10,6 +10,7 @@ aliases = ["/48-cplive-summer2020-live",]
 # episode_image = "img/episode/cp-live" Commenting out for now until we switch to a grid format.
 episode_banner = "img/episode/cp-live-banner.jpg"
 youtube = "FqIZxL757dg"
+sponsors = ["devrelcollective",]
 
 +++
 

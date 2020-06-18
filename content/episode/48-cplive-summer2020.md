@@ -2,11 +2,11 @@
 title = "A Talk about Racism, Privilege, and DevRel: Community Pulse Live - Summer Edition"
 Description = "These past few weeks have brought us to what we hope will be an inflection point with regard to systemic racism in the United States. We’re now asking the question: How can we work as a community in DevRel to ensure we not only address this critical moment, but actively work toward eradicating systemic racism in our industry?"
 date = 2020-06-12
-podcast_file = ""
+podcast_file = "https://traffic.libsyn.com/secure/communitypulse/48-cplive-summer2020.mp3"
 episode = "48-cplive-summer2020"
 hosts = ["pjhagerty", "sjmorris", "mthengvall", "jhand"] # The names of your hosts, based on the filename without extension.
 guests = ["wfaulkner"]
-aliases = ["/48-cplive-summer2020-live",]
+aliases = ["/48"]
 # episode_image = "img/episode/cp-live" Commenting out for now until we switch to a grid format.
 episode_banner = "img/episode/cp-live-banner.jpg"
 youtube = "FqIZxL757dg"

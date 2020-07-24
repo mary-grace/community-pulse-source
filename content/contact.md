@@ -1,11 +1,9 @@
 +++
-title = "contact us"
-description = "about this site"
-date = "2015-09-01"
+title = "Get in Touch with The Community Pulse"
+description = "How to reach us"
+date = "2020-07-01"
 +++
+[Tweet At Us](https://www.twitter.com/community_pulse)
 
-<p>Want to be a guest on the show or have an idea for an upcoming episode? Let us know!</p>
+Send us an email at: `info `@` communitypulse.io`
 
-<p>Email: hosts [at] communitypulse [dot] io</p>
-
-<p>Twitter: <a href = "https://twitter.com/community_pulse">@Community_Pulse</a><p>

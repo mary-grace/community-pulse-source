@@ -9,7 +9,7 @@
         </div>
 
         {{ range $p:= $.Site.Params.authors }}
-        <div class="col-lg-2">
+        <div class="col-lg-4">
             <img alt="{{ $p.name }}" src="{{ $p.thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host">
             <p class="text-center text-capitalize">{{ $p.name }}</p>
         </div>

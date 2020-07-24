@@ -35,6 +35,10 @@ googleAnalytics = "UA-113313834-4"
     name = "Guests"
     identifier = "guests"
     url = "/guest"
+ [[menu.main]]
+    name = "Hosts"
+    identifier = "hosts"
+    url = "/hosts"
 
 [params]
 mainSections = ["episode"]
@@ -54,7 +58,7 @@ Description = "Community Pulse is the spot for Developer Relations and Community
   [params.feed]
     feed_copyright = "Copyright 2015-2019 Community Pulse" #do not use markdown in this field; it is used in the feed
     #itunes_subtitle = "There's always DevOps in the Banana Stand" #no markdown or HTML
-    itunes_author = "Jason Hand, Mary Thengvall, PJ Hagerty, and Sarah-Jane Morris" #no markdown or HTML
+    itunes_author = "Jason Hand, Mary Thengvall, PJ Hagerty, Wesley Faulkner, and Sarah-Jane Morris" #no markdown or HTML
     itunes_summary = "Community Pulse is the spot for Developer Relations and Community professionals who are looking for information on building technical communities. Community Builders and DevRel veterans Jason Hand, Mary Thengvall, PJ Hagerty, and Sarah-Jane Morris interview experts in the field of Developer Relations and Community Leadership on a broad range of topics related to building community." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Mary Thengvall"
     itunes_owner_email = "mary@persea-consulting.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
@@ -75,15 +79,17 @@ Description = "Community Pulse is the spot for Developer Relations and Community
     # youtube = "channel/UC3Mt417XSjzsIgekPWinKiw"
 
 	[params.authors]
-		[params.authors.Jason]
-			name = "Jason Hand"
-			thumbnail = "img/jhand.jpg"
-			bio = "Senior Cloud Ops Advocate at Microsoft. Jason Hand writes, presents, and coaches on the principles and nuance of DevOps, Site Reliability Engineering, and modern incident management practices. Named \"DevOps Evangelist of the Year\" by DevOps.com in 2016, Jason recently authored a new book on the topic of Site Reliability Engineering. In addition to SRE, Jason has authored books with O’Reilly Media on the subject of post-incident reviews and Chatops. DevOpsDays Rockies organizer and host of the Front-range Site Reliability Meetup, Jason is dedicated to the latest trends in technology, sharing the lessons learned, and helping people continuously improve their IT and software development practices."
-			[params.authors.Jason.social]
-				github = "jasonhand"
-				twitter = "jasonhand"
-				homepage = "https://jasonhand.com"
-	  [params.authors.Mary]
+
+	    [params.authors.WF]
+			name = "Wesley Faulkner"
+			thumbnail = "img/wfaulkner.jpeg"
+			bio = "Coming ..."
+			[params.authors.WF.social]
+				github = "wesley83"
+				twitter = "wesley83"
+				homepage = "https://communitypulse.io/"
+
+	    [params.authors.Mary]
 			name	= "Mary Thengvall"
 			thumbnail = "img/mary.jpg"
 			bio = "Mary Thengvall is a connector of people at heart, both personally and professionally. She loves digging into the strategy of how to build and foster developer communities and has been doing so for over 10 years. In addition to her work, she's known for being \"the one with the dog,\" thanks to her ever-present medical alert service dog [Ember](https://twitter.com/ember_dog). She's also the author of the first book on Developer Relations: [The Business Value of Developer Relations](https://amzn.to/2PGl9gJ) ((c) 2018, Apress)"
@@ -91,7 +97,8 @@ Description = "Community Pulse is the spot for Developer Relations and Community
 				github = "mary-grace"
 				twitter = "mary_grace"
 				homepage = "https://marythengvall.com"
-		[params.authors.PJ]
+
+	    [params.authors.PJ]
 			name = "PJ Hagerty"
 			thumbnail = "img/pj.jpg"
 			bio = "Developer, writer, speaker, musician, and Founder of DevRelate.io, PJ is known to travel the world speaking about programming and the way people think and interact. Traveling to conferences and meet ups around the world, PJ likes to spread the word on the importance of community and coding, stressing the importance of outreach and focusing on the human side of being a coder. He is also known for wearing hats."
@@ -99,6 +106,7 @@ Description = "Community Pulse is the spot for Developer Relations and Community
 				github = "aspleenic"
 				twitter = "aspleenic"
 				homepage = "http://devrelate.io"
+
 		[params.authors.SJ]
 			name = "Sarah-Jane Morris"
 			thumbnail = "img/sjmorris.jpg"
@@ -107,3 +115,12 @@ Description = "Community Pulse is the spot for Developer Relations and Community
 				github = "SarahJaneMorris"
 				twitter = "SarahJaneMorris"
 				homepage = "https://listen.community/"
+
+		[params.authors.Jason]
+			name = "Jason Hand"
+			thumbnail = "img/jhand.jpg"
+			bio = "Senior Cloud Ops Advocate at Microsoft. Jason Hand writes, presents, and coaches on the principles and nuance of DevOps, Site Reliability Engineering, and modern incident management practices. Named \"DevOps Evangelist of the Year\" by DevOps.com in 2016, Jason recently authored a new book on the topic of Site Reliability Engineering. In addition to SRE, Jason has authored books with O’Reilly Media on the subject of post-incident reviews and Chatops. DevOpsDays Rockies organizer and host of the Front-range Site Reliability Meetup, Jason is dedicated to the latest trends in technology, sharing the lessons learned, and helping people continuously improve their IT and software development practices."
+			[params.authors.Jason.social]
+				github = "jasonhand"
+				twitter = "jasonhand"
+				homepage = "https://jasonhand.com"

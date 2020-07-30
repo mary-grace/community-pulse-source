@@ -1,3 +1,5 @@
+# CURRENTLY NOT BEING USED. DO NOT PUSH TO THIS REPO.
+
 This is the thing that builds the Community Pulse website. :tada: 
 
 # Contributing

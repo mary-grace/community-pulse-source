@@ -6,8 +6,8 @@ podcast_file = "https://traffic.libsyn.com/communitypulse/covid19-live-bonus.mp3
 episode = "45covid19-live"
 hosts = ["pjhagerty", "sjmorris", "mthengvall", "jhand"] # The names of your hosts, based on the filename without extension.
 aliases = ["/45covid19-live",]
-# episode_image = "img/episode/cp-live.jpg" Commenting out for now until we switch to a grid format.
-episode_banner = "img/episode/cp-live-banner.jpg"
+episode_image = "https://communitypulsestorage-secondary.z13.web.core.windows.net/img/episode/cp-live.jpg"
+episode_banner = "https://communitypulsestorage-secondary.z13.web.core.windows.net/img/episode/cp-live-banner.jpg"
 youtube = "nsBYdzbU4R4"
 
 +++

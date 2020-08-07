@@ -7,8 +7,8 @@ episode = "48-cplive-summer2020"
 hosts = ["pjhagerty", "sjmorris", "mthengvall", "jhand"] # The names of your hosts, based on the filename without extension.
 guests = ["wfaulkner"]
 aliases = ["/48"]
-# episode_image = "img/episode/cp-live" Commenting out for now until we switch to a grid format.
-episode_banner = "img/episode/cp-live-banner.jpg"
+episode_image = "https://communitypulsestorage-secondary.z13.web.core.windows.net/img/episode/cp-live.jpg"
+episode_banner = "https://communitypulsestorage-secondary.z13.web.core.windows.net/img/episode/cp-live-banner.jpg"
 youtube = "FqIZxL757dg"
 sponsors = ["devrelcollective",]
 

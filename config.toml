@@ -35,16 +35,12 @@ googleAnalytics = "UA-113313834-4"
     name = "Guests"
     identifier = "guests"
     url = "/guest"
- [[menu.main]]
-    name = "Hosts"
-    identifier = "hosts"
-    url = "/hosts"
 
 [params]
 mainSections = ["episode"]
 site_theme = "grey"
 site_layout = "row"
-enable_jumbo = "true"
+enable_jumbo = "false"
 favicon = "favicon.ico"
 copyright_notice = "Copyright 2015-2020 [Community Pulse](https://www.communitypulse.io)"
 itunes_subscribe = "https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2"

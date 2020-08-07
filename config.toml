@@ -40,7 +40,7 @@ googleAnalytics = "UA-113313834-4"
 mainSections = ["episode"]
 site_theme = "grey"
 site_layout = "row"
-enable_jumbo = "false"
+enable_jumbo = "no"
 favicon = "favicon.ico"
 copyright_notice = "Copyright 2015-2020 [Community Pulse](https://www.communitypulse.io)"
 itunes_subscribe = "https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2"

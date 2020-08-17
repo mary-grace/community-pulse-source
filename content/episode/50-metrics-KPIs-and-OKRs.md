@@ -1,8 +1,8 @@
 +++
 title = "Metrics, KPIs, and OKRs - Oh My!"
 Description = ""
-Date = 2020-07-13
-PublishDate = 2020-07-13
+Date = 2020-08-13
+PublishDate = 2020-08-13
 podcast_file = "https://traffic.libsyn.com/secure/communitypulse/Community_Pulse_-_Episode_50_-_Metrics_KPIs_and_OKRs_-_OH_MY.mp3"
 episode_image = "https://communitypulsestorage-secondary.z13.web.core.windows.net/img/episode/50-metrics-KPIs-and-OKRs.jpg"
 episode_banner = "https://communitypulsestorage-secondary.z13.web.core.windows.net/img/episode/50-metrics-KPIs-and-OKRs-banner.png"

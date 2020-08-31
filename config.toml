@@ -78,7 +78,7 @@ Description = "Community Pulse is the spot for Developer Relations and Community
 
 	    [params.authors.WF]
 			name = "Wesley Faulkner"
-			thumbnail = "img/wfaulkner.jpeg"
+			thumbnail = "img/wfaulkner.jpg"
 			bio = "Coming ..."
 			[params.authors.WF.social]
 				github = "wesley83"

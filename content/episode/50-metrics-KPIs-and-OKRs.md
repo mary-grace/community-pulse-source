@@ -1,6 +1,6 @@
 +++
 title = "Metrics, KPIs, and OKRs - Oh My!"
-Description = ""
+Description = "In this episode we want to discuss the topic of OKRs (or Objectives and Key Results). What are OKRs, and why are they beneficial to an organization? How do they differ from Key Performance Metrics (KPIs)? What even is a North Star?"
 Date = 2020-08-13
 PublishDate = 2020-08-13
 podcast_file = "https://traffic.libsyn.com/secure/communitypulse/Community_Pulse_-_Episode_50_-_Metrics_KPIs_and_OKRs_-_OH_MY_fixed.mp3"

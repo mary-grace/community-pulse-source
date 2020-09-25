@@ -1,5 +1,5 @@
 +++
-title = "DevRel as an Early Employee"
+title = "DevRel at the Foundation"
 Description = "As companies are starting to realize that Developer Relations can be a competitive advantage, we’ve been noticing more and more job descriptions for Developer Advocates or DevRel Professionals who are the first non-engineering hire at early-stage startups. But when you’re an early hire working alongside the founder and a few engineers, what does your role look like? How is it different from joining a company as employee #30, 120, or even 1432?"
 Date = 2020-09-18
 PublishDate = 2020-09-18

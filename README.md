@@ -20,7 +20,8 @@ Here are the steps to follow to get going as a Community Pulse content contribut
 5. Once you've made your changes or created your new content (see **Creating New Content** below), use `git add` to specify which changes you want to commit. You can either add these files one at a time by listing out the file name (e.g. `git add content/episode/38ap`) or commit them in groups (e.g. `git add content/`). _To see which files have been edited or added, enter the command `git status`._
 6. Now commit your changes to your local branch by entering the command `git commit -m "commit message here"`. Be specific with your commit message (e.g. "Episode 39 page, images, and guest information") so that the other hosts know what you changed.
 7. Once you're happy with your changes (remember to check them at http://localhost:1313) push them to the Github repo: `git push origin <branch title>`.
-8. Navigate back here to see the changes you've pushed and [create a pull request](https://help.github.com/en/articles/creating-a-pull-request). Netlify will take over from here, running through a series of tests to make sure everything is ready to publish. Once those are  complete (and all green) you'll be able to merge the pull request and delete the branch.
+8. NOTE: This step is no longer correct. Updates coming soon.
+Navigate back here to see the changes you've pushed and [create a pull request](https://help.github.com/en/articles/creating-a-pull-request). Netlify will take over from here, running through a series of tests to make sure everything is ready to publish. Once those are  complete (and all green) you'll be able to merge the pull request and delete the branch.
 9. Lastly, you'll want to navigate back to your terminal window, change to the master branch (`git checkout master`) and pull down the changes you just made so that your local version matches the Github version.
 
 # Creating New Content

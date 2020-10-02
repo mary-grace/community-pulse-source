@@ -13,7 +13,7 @@ aliases = ["/51",]
 explicit = "no" # values are "yes" or "no"
 +++
 
-As companies are starting to realize that Developer Relations can be a competitive advantage, we’ve been noticing more and more job descriptions for Developer Advocates or DevRel Professionals who are the first non-engineering hire at early-stage startups. But when you’re an early hire working alongside the founder and a few engineers, what does your role look like? How is it different from joining a company as employee #30, 120, or even 1432? 
+As companies are starting to realize that Developer Relations can be a competitive advantage, we’ve been noticing more and more job descriptions for Developer Advocates or DevRel Professionals who are the first non-engineering hire at early-stage startups. But when you’re an early hire working alongside the founder and a few engineers, what does your role look like? How is it different from joining a company as employee #30, 120, or even 1433? 
 
 ### Check Outs
 

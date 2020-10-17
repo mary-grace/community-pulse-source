@@ -1,5 +1,5 @@
 +++
-title = "Events in the Pandemic - Community Pulse Live! - Community Pulse LIVE!"
+title = "Events in the Pandemic - Community Pulse LIVE!"
 Description = "We’re almost 8 months into a global pandemic. The last time we gathered to discuss COVID-19, we were mere weeks in and scrambling to figure out how to adjust. Given how much has changed since then, it was time for another Community Pulse LIVE! Our questions include “What have we learned?” “How the pandemic has changed our perception of attending in-person conferences?” and “How does this uncertainty impact our budgets for the years to come?”. Guests Rahmona Henry (HubSpot Developer Advocate) and Floor Drees (Microsoft DevRel Program Manager) join us to discuss how they’re approaching their 2021 event strategy."
 date = 2020-10-05
 podcast_file = "https://traffic.libsyn.com/secure/communitypulse/Community_Pulse_-_Episode_52_-_Community_Pulse_Live_-_Events.mp3"

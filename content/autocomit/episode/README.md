@@ -1,1 +1,1 @@
-# It Works This is the second autocomit to the cp repo - Jason
+# I Think I Found The Problem Below is the info for this show.   It Works This is the third autocomit to the cp repo - Jason There was a syntax error in the JSON Episode: .  The audio file can be found at: . Guests were:  Hosts were: 

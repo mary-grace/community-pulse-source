@@ -1,0 +1,1 @@
++++Title = "Sydney Aerostem"Twitter = ""Website = ""Type = "guest"LinkedIn = ""Pronouns = "she/her"GitHub = ""Thumbnail = "https://github.com/.png"YouTube = ""+++A bio

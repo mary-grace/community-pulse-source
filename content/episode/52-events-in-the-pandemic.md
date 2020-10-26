@@ -4,11 +4,13 @@ Description = "We’re almost 8 months into a global pandemic. The last time we 
 date = 2020-10-05
 podcast_file = "https://traffic.libsyn.com/secure/communitypulse/Community_Pulse_-_Episode_52_-_Community_Pulse_Live_-_Events.mp3"
 episode = "52covid19-live"
-hosts = ["wfaulkner", "pjhagerty", "sjmorris", "mthengvall", "jhand"] # The names of your hosts, based on the filename without extension.
-aliases = ["/52covid19-live",]
+guests = ["fdrees", "rhenry"]
+hosts = ["wfaulkner", "sjmorris", "mthengvall", "jhand"] # The names of your hosts, based on the filename without extension.
+aliases = ["/52covid19-live"]
 episode_image = "https://communitypulsestorage-secondary.z13.web.core.windows.net/img/episode/52cp-live.jpg"
 episode_banner = "https://communitypulsestorage-secondary.z13.web.core.windows.net/img/episode/52cp-live.jpg"
 youtube = "s_eozsmdOtM"
+sponsors = ["devrelcollective"]
 +++
 
 ## Guests

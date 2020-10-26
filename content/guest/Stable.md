@@ -1,0 +1,1 @@
++++Title = "Tim Stable"Twitter = "jasonhand"Website = ""Type = "guest"LinkedIn = ""Pronouns = "he/him"GitHub = ""Thumbnail = "https://github.com/.png"YouTube = ""+++This is where I'll write many words about myself

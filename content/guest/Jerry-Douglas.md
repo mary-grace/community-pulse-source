@@ -1,1 +1,0 @@
-+++Title = "Jerry Douglas"Twitter = "jasonhand"Website = ""Type = "guest"LinkedIn = ""Pronouns = "he/him"GitHub = ""Thumbnail = "https://github.com/.png"YouTube = ""+++Dobro guy

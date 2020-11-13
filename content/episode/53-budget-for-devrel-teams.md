@@ -12,10 +12,6 @@ episode_banner = "https://communitypulsestorage-secondary.z13.web.core.windows.n
 sponsors = ["devrelcollective"]
 +++
 
-## Guests
-
-- Bear Douglas (Director of Developer Relations, [Slack](https://slack.com/)) - [@beardigsit](https://twitter.com/beardigsit)
-
 ## Check Outs
 
 ##### SJ Morris 

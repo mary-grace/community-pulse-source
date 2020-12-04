@@ -10,7 +10,7 @@ aliases = ["/48"]
 episode_image = "https://communitypulsestorage-secondary.z13.web.core.windows.net/img/episode/cp-live.jpg"
 episode_banner = "https://communitypulsestorage-secondary.z13.web.core.windows.net/img/episode/cp-live-banner.jpg"
 youtube = "FqIZxL757dg"
-sponsors = ["devrelcollective",]
+sponsors = ["devrelcollective"]
 
 +++
 
@@ -22,7 +22,7 @@ sponsors = ["devrelcollective",]
 * Scene On Radio podcast Season 2: [Seeing White podcast series](http://www.sceneonradio.org/seeing-white/)
 * Wesley Faulkner’s [“5 steps to combat racism”](https://www.youtube.com/watch?v=GY02zKjyA9Q&feature=youtu.be) video
 * Wesley Faulkner’s [“Are we all racist?”](https://youtu.be/rBB9KQr4XfI) video
-* _Difficult Conversations: How to Discuss What Matters Most_ by Douglas Stone, Bruce Patton, Sheila Heen  ([summary](https://www.beyondintractability.org/bksum/stone-difficult))
+* _Difficult Conversations: How to Discuss What Matters Most_by Douglas Stone, Bruce Patton, Sheila Heen ([summary](https://www.beyondintractability.org/bksum/stone-difficult))
 * [Walk on by: why do we ignore bad behaviour?](https://www.theguardian.com/science/2020/apr/05/walk-on-by-why-do-we-ignore-bad-behaviour)
 * [Zootopia](https://en.wikipedia.org/wiki/Zootopia) (animated movie for kids that clearly illustrates racism)
 * [We don’t do that here](https://thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html) (a way to shut down racist and/or inappropriate comments)

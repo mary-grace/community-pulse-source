@@ -13,17 +13,17 @@ sponsors = ["devrelcollective"]
 
 ## 2020 Episodes
 
-- Finding the DevRel in You: Common Characteristics of Developer Relations Professionals - Amanda Folson & Geertjan Wielanga
-- The Ethical DevRel - Coraline Ada Ehmke & Don Goodman-Wilson
-- COVID-19 Retrospective (Community Pulse LIVE)
-- Developer Relations And Developer Marketing: The Differences, The Similarities, The Partnerships - Elizabeth Kinsey & Karen White
-- Online Community Management: How DevRel Is Going Virtual - Marjorie Anderson & Wesley Faulkner
-- A Talk About Racism, Privilege, And DevRel: Community Pulse Live - Summer Edition
-- Advocating For DevRel As A DevRel Professional - Elizabeth Ruscitto & Jaime Lopez
-- Metrics, KPIs, and OKRs - Oh My! - Donovan Brown and Patrick Collins
-- DevRel at the Foundation - Aydrian Howard, Taylor Barnett, David Simmons
-- Events in the Pandemic - Community Pulse LIVE! - Rahmona Henry & Floor Drees
-- Budgets Rule Everything - Bear Douglas
+- [Finding the DevRel in You: Common Characteristics of Developer Relations Professionals](https://www.communitypulse.io/44-finding-devrel-in-you/) - Amanda Folson & Geertjan Wielanga
+- [The Ethical DevRel](https://www.communitypulse.io/45-ethics/) - Coraline Ada Ehmke & Don Goodman-Wilson
+- [COVID-19 Retrospective (Community Pulse LIVE)](https://www.communitypulse.io/45covid19-bonus/)
+- [Developer Relations And Developer Marketing: The Differences, The Similarities, The Partnerships](https://www.communitypulse.io/46-devrel-dev-marketing/) - Elizabeth Kinsey & Karen White
+- [Online Community Management: How DevRel Is Going Virtual](https://www.communitypulse.io/47-online-community-going-virtual/) - Marjorie Anderson & Wesley Faulkner
+- [A Talk About Racism, Privilege, And DevRel: Community Pulse Live - Summer Edition](https://www.communitypulse.io/48-cplive-summer2020/)
+- [Advocating For DevRel As A DevRel Professional](https://www.communitypulse.io/49-advocating-for-devrel/) - Elizabeth Ruscitto & Jaime Lopez
+- [Metrics, KPIs, and OKRs - Oh My!](https://www.communitypulse.io/50-metrics-kpis-and-okrs/) - Donovan Brown and Patrick Collins
+- [DevRel at the Foundation](https://www.communitypulse.io/51-devrel-foundations/) - Aydrian Howard, Taylor Barnett, David Simmons
+- [Events in the Pandemic - Community Pulse LIVE!](https://www.communitypulse.io/52-events-in-the-pandemic/) - Rahmona Henry & Floor Drees
+- [Budgets Rule Everything](https://www.communitypulse.io/53-budget-for-devrel-teams/) - Bear Douglas
 
 
 ### Enjoy the podcast?

@@ -6,8 +6,8 @@ podcast_file = "https://traffic.libsyn.com/secure/communitypulse/Community_Pulse
 episode = "54-end-of-year"
 hosts = ["wfaulkner", "sjmorris", "mthengvall", "pjhagerty", "jhand"]
 aliases = ["/54-end-of-year"]
-episode_image = "https://communitypulsestorage-secondary.z13.web.core.windows.net/img/episode/54-end-of-year.jpg"
-episode_banner = "https://communitypulsestorage-secondary.z13.web.core.windows.net/img/episode/54-end-of-year-banner.jpg"
+episode_image = "/img/episode/54-end-of-year.jpg"
+episode_banner = "/img/episode/54-end-of-year-banner.jpg"
 sponsors = ["devrelcollective"]
 +++
 

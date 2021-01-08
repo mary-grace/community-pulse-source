@@ -1,5 +1,4 @@
 BaseURL = "https://www.communitypulse.io/"
-# BaseURL = "/"
 languageCode = "en-us"
 title = "Community Pulse"
 theme = "castanet"
@@ -42,7 +41,7 @@ site_theme = "grey"
 site_layout = "row"
 enable_jumbo = "no"
 favicon = "favicon.ico"
-copyright_notice = "Copyright 2015-2020 [Community Pulse](https://www.communitypulse.io)"
+copyright_notice = "Copyright 2015-2021 [Community Pulse](https://www.communitypulse.io)"
 itunes_subscribe = "https://itunes.apple.com/us/podcast/community-pulse/id1218368182?mt=2"
 android_subscribe = "https://www.subscribeonandroid.com/communitypulse.libsyn.com/rss"
 google_play_subscribe = "https://play.google.com/music/m/I6f2bjfqvy6aa2pk5wtzm4rcyh4?t=Community_Pulse"
@@ -54,7 +53,7 @@ Description = "Community Pulse is the spot for Developer Relations and Community
   [params.feed]
     feed_copyright = "Copyright 2015-2019 Community Pulse" #do not use markdown in this field; it is used in the feed
     #itunes_subtitle = "There's always DevOps in the Banana Stand" #no markdown or HTML
-    itunes_author = "Jason Hand, Mary Thengvall, PJ Hagerty, Wesley Faulkner, and Sarah-Jane Morris" #no markdown or HTML
+    itunes_author = "PJ Hagerty, Jason Hand, Mary Thengvall, Wesley Faulkner, and Sarah-Jane Morris" #no markdown or HTML
     itunes_summary = "Community Pulse is the spot for Developer Relations and Community professionals who are looking for information on building technical communities. Community Builders and DevRel veterans Jason Hand, Mary Thengvall, PJ Hagerty, and Sarah-Jane Morris interview experts in the field of Developer Relations and Community Leadership on a broad range of topics related to building community." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Mary Thengvall"
     itunes_owner_email = "mary@persea-consulting.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.

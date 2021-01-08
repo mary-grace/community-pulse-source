@@ -1,6 +1,6 @@
 +++
 title = "About Your Hosts"
 description = "The hosts of Community Pulse"
-date = "2016-10-14"
-hosts = ["jhand", "mthengvall", "pjhagerty", "sjmorris", "wfaulkner"]
+date = "2021-01-01"
+hosts = ["wfaulkner","sjmorris","pjhagerty","jhand","mthengvall"]
 +++

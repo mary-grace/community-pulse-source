@@ -2,7 +2,7 @@
 Title = "Davey Shafik"
 date = "2019-03-07T10:24:26-08:00"
 Twitter = "dshafik"
-Website = ""
+Website = "https://www.daveyshafik.com/"
 Type = "guest"
 Facebook = ""
 Linkedin = ""
@@ -13,3 +13,4 @@ Pinterest = ""
 Instagram = ""
 YouTube = ""
 +++
+Professional Developer, Author, and Speaker

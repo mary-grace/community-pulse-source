@@ -5,6 +5,7 @@ date = 2021-01-15
 podcast_file = "https://traffic.libsyn.com/secure/communitypulse/Episode_55_-_Internal_vs_External_Devrel.mp3"
 episode = "55-internal-vs-external-devel"
 hosts = ["wfaulkner", "pjhagerty"]
+guests = ["kmcintosh", "ahammerly", "dshafik"]
 aliases = ["/55-internal-vs-external-devel"]
 episode_image = "/img/episode/55-internal-vs-external-devel.jpg"
 episode_banner = "/img/episode/55-internal-vs-external-devel-banner.jpg"

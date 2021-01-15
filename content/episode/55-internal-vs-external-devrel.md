@@ -1,6 +1,6 @@
 +++
 title = "Internal vs. External DevRel"
-Description = "While DevRel holds some universal truths, there is at times a difference between how we handle our external communities as opposed to our internal communities. While we are still bringing people together, some of the approaches and interested parties may change. How do we foster communities and communicate feedback within an organization? Is it so different from “traditional” DevRel?"
+Description = "While DevRel holds some universal truths, there are times when there is a difference between how we handle our external communities as opposed to our internal communities. In bringing people together, some of the approaches and interested parties may change. How do we foster communities and communicate feedback within an organization? Is it so different from “traditional” DevRel?"
 date = 2021-01-15
 podcast_file = "https://traffic.libsyn.com/secure/communitypulse/Episode_55_-_Internal_vs_External_Devrel.mp3"
 episode = "55-internal-vs-external-devel"

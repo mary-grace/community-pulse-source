@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "vscode-icons-team.vscode-icons",
+        "github.github-vscode-theme",
+        "ms-azuretools.vscode-azurestaticwebapps",
+        "ms-azuretools.vscode-azurefunctions",
+        "ms-vscode.azure-account"
+    ]
+}

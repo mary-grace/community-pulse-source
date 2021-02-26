@@ -2,7 +2,7 @@
 title = "Hiring and Recruiting in the Modern Era"
 Description = "As the number of engineering and developer jobs continues to grow and the skillsets diversify, DevRel has seen a wave of people being let go, followed by a sudden growth in hiring across the tech industry. Taking a look at these trends over the last year or so, we decided we would go to the experts to explain how hiring looks from the recruitment side, what people can do to improve their hiring experience, and what’s different in today’s DevRel hiring landscape."
 date = 2021-02-25
-podcast_file = "https://communitypulse.libsyn.com/community-pulse-episode-56-hiring-and-recruiting-in-the-modern-era"
+podcast_file = "https://traffic.libsyn.com/secure/communitypulse/02_15_21_final.mp3"
 episode = "56-hiring-and-recruiting-in-the-modern-era"
 hosts = ["wfaulkner", "pjhagerty", "sjmorris", "jhand"]
 guests = ["jwohlner", "wstaney"]

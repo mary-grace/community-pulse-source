@@ -10,7 +10,7 @@ aliases = ["/57-devrel-content-channels"]
 episode_image = "/img/episode/57-devrel-content-channels.jpg"
 episode_banner = "/img/episode/57-devrel-content-channels-banner.jpg"
 sponsors = ["circleci"]
-draft = false
+draft = true
 +++
 
 ### Check Outs

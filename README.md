@@ -1,5 +1,9 @@
 # CURRENTLY NOT BEING USED. DO NOT PUSH TO THIS REPO.
 
+New website source can be found here: https://github.com/jasonhand/communitypulse
+
+---
+
 This is the thing that builds the Community Pulse website. :tada: 
 
 # Contributing
